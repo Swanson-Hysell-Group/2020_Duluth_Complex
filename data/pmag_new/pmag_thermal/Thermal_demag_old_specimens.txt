@@ -1,0 +1,19 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+FC1-1b	FC1-1	Yiming Zhang	This study	LP-NOMAG
+FC1-2b	FC1-2	Yiming Zhang	This study	LP-NOMAG
+FC1-3b	FC1-3	Yiming Zhang	This study	LP-NOMAG
+FC1-4b	FC1-4	Yiming Zhang	This study	LP-NOMAG
+FC1-5b	FC1-5	Yiming Zhang	This study	LP-NOMAG
+FC1-6b	FC1-6	Yiming Zhang	This study	LP-NOMAG
+FC1-7b	FC1-7	Yiming Zhang	This study	LP-NOMAG
+FC1-8b	FC1-8	Yiming Zhang	This study	LP-NOMAG
+FC1-9b	FC1-9	Yiming Zhang	This study	LP-NOMAG
+HCT1-1b	HCT1-1	Yiming Zhang	This study	LP-NOMAG
+HCT1-2b	HCT1-2	Yiming Zhang	This study	LP-NOMAG
+HCT1-3b	HCT1-3	Yiming Zhang	This study	LP-NOMAG
+HCT1-4b	HCT1-4	Yiming Zhang	This study	LP-NOMAG
+HCT1-5b	HCT1-5	Yiming Zhang	This study	LP-NOMAG
+HCT1-6b	HCT1-6	Yiming Zhang	This study	LP-NOMAG
+HCT1-7b	HCT1-7	Yiming Zhang	This study	LP-NOMAG
+HCT1-8b	HCT1-8	Yiming Zhang	This study	LP-NOMAG		

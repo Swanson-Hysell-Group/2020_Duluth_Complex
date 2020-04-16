@@ -1,0 +1,10 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+HCT1-1a	HCT1-1		This study	LP-NOMAG		
+HCT1-2a	HCT1-2		This study	LP-NOMAG		
+HCT1-3a	HCT1-3		This study	LP-NOMAG		
+HCT1-4a	HCT1-4		This study	LP-NOMAG		
+HCT1-5a	HCT1-5		This study	LP-NOMAG		
+HCT1-6a	HCT1-6		This study	LP-NOMAG		
+HCT1-7a	HCT1-7		This study	LP-NOMAG		
+HCT1-8a	HCT1-8		This study	LP-NOMAG		

@@ -1,0 +1,233 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage{xcolor}
+\usepackage{textcomp,marvosym}
+\usepackage{amsmath,amssymb}
+\usepackage[left]{lineno}
+\usepackage{changepage}
+\usepackage{rotating}
+\usepackage{natbib}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{sidecap}
+\usepackage{pdfpages}
+\usepackage{longtable}
+
+\usepackage[aboveskip=1pt,labelfont=bf,labelsep=period,justification=raggedright,singlelinecheck=off]{caption}
+\doublespacing
+
+\raggedright
+\textwidth = 6.5 in
+\textheight = 8.25 in
+\oddsidemargin = 0.0 in
+\evensidemargin = 0.0 in
+\topmargin = 0.0 in
+\headheight = 0.0 in
+\headsep = 0.5 in
+\parskip = 0.1 in
+\parindent = 0.2 in
+
+\pagestyle{myheadings}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Swanson-Hysell et al., to be submitted to GEOLOGY}
+\rhead{\thepage}
+
+\begin{document}
+
+\begin{flushleft}
+{\Large \textbf{Rapid emplacement of massive Duluth Complex intrusions within the Midcontinent Rift}}
+\\
+Nicholas L. Swanson-Hysell\textsuperscript{1}, Steven A. Hoaglund\textsuperscript{2}, James L. Crowley\textsuperscript{3}, Mark D. Schmitz\textsuperscript{3}, Yiming Zhang\textsuperscript{1}, James D. Miller Jr.\textsuperscript{2}
+\\
+\bigskip
+\textsuperscript{1} Department of Earth and Planetary Science, University of California, Berkeley, CA, USA\\
+\textsuperscript{2} Department of Earth and Environmental Sciences, University of Minnesota, Duluth, MN, USA \\
+\textsuperscript{3} Department of Geosciences, Boise State University, Boise, ID, USA
+\bigskip
+\end{flushleft}
+
+\noindent\textit{This article is to be submitted for consideration at GEOLOGY (published by the Geological Society of America).}
+
+\linenumbers
+%\pagestyle{empty}
+
+\section*{ABSTRACT}
+
+The Duluth Complex is one of the largest mafic intrusive complexes in the world. It was emplaced as the Midcontinent Rift developed in Laurentia's interior during an interval of magmatism and extension from \textit{ca.} 1109 to 1084 Ma. This duration of magmatic activity is more protracted than is typical for large igneous provinces interpreted to have resulted from decompression melting of upwelling mantle plumes. While the overall duration of magmatic activity was protracted, there were intervals of more voluminous magmatism. High-precision U-Pb geochronology can give insight into the timescale of these pulses. Paleomagnetic data can also give chronological constraints for rocks of the Midcontinent Rift given the large change in paleolatitude that occurred over the interval of rift magmatism. In this work, we present new high-precision $^{206}$Pb/$^{238}$U dates for both the anorthositic and layered series of the Duluth Complex and demonstrate that they were both emplaced during a $<$1 million year long interval \textit{ca.} 1096 Ma. Comparison of compiled and new paleomagnetic data from these units with the chronostratigraphically-constrained apparent polar wander path supports this interpretation. This timing of emplacement corresponds with eruptions of the North Shore Volcanic Group. The rapid emplacement of Duluth Complex intrusions and North Shore Volcanic Group lavas bears similarities to the geologically short duration of well-dated large igneous provinces. These data support hypotheses that call upon the co-location of magmatism and rifting as the result of lithospheric extension atop decompression melting of anomalous hot upwelling mantle. This rapid magmatic pulse occurred more than 10 million years after initial magmatic activity following more than 20\textdegree$\;$of latitudinal plate motion. A likely scenario is one in which upwelling mantle flow spread across the base of Laurentian lithosphere resulting in the southwest Laurentia large igneous provinces while flowing upwards to the rift via ``upside-down drainage.''
+
+%High precision dates from the Beaver Bay Complex illuminate that a major troctolitic macrodike within it is associated with this rapid voluminous interval of magmatism. A younger group of intrusions ca. 1092 Ma within the Beaver Bay Complex is correlative with massive eruptions elsewhere in the rift. 
+
+\section*{INTRODUCTION}
+
+The Midcontinent Rift represents a protracted tectonomagmatic event in the interior of the Laurentia (the North American craton). Voluminous outpouring of lava and emplacement of intrusions accompanied rift development (Fig. \ref{fig:map}). Magmatic activity initiated \textit{ca.} 1109 Ma and continued until \textit{ca.} 1084 Ma \citep{Swanson-Hysell2019a}. Preserved thicknesses for volcanic successions range from nearly 10 km for the partial sections exposed on land, such along the North Shore of Minnesota \citep{Green2011a}, up to $\sim$25 km interpreted to be preserved under Lake Superior \citep{Cannon1992b}. These volcanics and associated intrusions are much more voluminous than is typical for a tectonic rifting event. Analysis of seismic data leads to a preserved volcanic volume estimate of 1.5 x 10$^6$ km$^3$ \citep{Cannon1992b}. Total eruptive volume is estimated to have exceeded 2 x 10$^6$ km$^3$ and there are indications of a much greater volume having been added to the lithosphere as intrusions and an underplate \citep{Cannon1992b}. The duration of volcanism of $\sim$25 Myr in the Midcontinent Rift is much longer than is typical for large igneous province emplacement associated with decompression melting of an upwelling mantle plume. Well-dated large igneous provinces, such as the Central Atlantic Magmatic Province \citep{Blackburn2013a}, the Karoo-Ferrar \citep{Burgess2015a}, and the Deccan Traps \citep{Schoene2019a, Sprain2019a} have much shorter durations of $<$1 Myr for the bulk of their magmatic activity. An explanation for prolonged volcanism in the Midcontinent Rift could attribute rift initiation and initial volcanism via plume arrival with continued volcanism resulting from rift-driven asthenospheric upwelling. However, the most voluminous period of magmatism occurred more than 10 million years after initial flood volcanism during an interval known as the ``main magmatic stage'' \citep{Vervoort2007a}. 
+
+\begin{SCfigure}[][h]
+\centering
+\noindent\includegraphics[width=0.725\textwidth]{./Figures/Duluth_Complex_map.pdf}
+\caption{\small{Geologic map of northeastern Minnesota (simplified from \citealp{Jirsa2011a}) highlighting the extent of the major intrusive complexes of the Midcontinent Rift and showing the geochronology sample locations. The older Felsic series and Early Gabbro series of the Duluth Complex are grouped as the ``Early series." Dates from the anorthositic and layered series of the Duluth Complex (shown in light and dark blue) indicate rapid emplacement in less than 1 million years.}}
+\label{fig:map}
+\end{SCfigure} 
+
+Pioneering Midcontinent Rift geochronology utilized $^{207}$Pb/$^{206}$Pb dates on zircon from both extrusive volcanics \citep{Davis1997a} and intrusions \citep{Paces1993a} to illuminate this prolonged history of magmatism and interpret periods of enhanced activity. Subsequent advances in U-Pb geochronology enable higher precision $^{206}$Pb/$^{238}$U dates to be used when dates have been developed utilizing chemical abrasion methods that mitigate Pb-loss \citep{Mattinson2005a}. Such dates can be compared at the level of analytical uncertainty when they have been developed using the EARTHTIME tracer \citep{Condon2015a}. An updated chronostratigraphic framework for Midcontinent Rift volcanics was recently published \citep{Swanson-Hysell2019a} that included new U-Pb dates developed using these methods (Fig. \ref{fig:dates}). With these higher precision constraints, the timing and tempo of magmatic activity within the rift can be reevaluated. Of particular interest is whether magmatic activity was continuous or punctuated by pulses. Key to evaluating this question is the timing of emplacement of intrusive rocks throughout the Midcontinent Rift particularly the largest one -- the Duluth Complex (Fig. \ref{fig:map}). The Duluth Complex is the largest intrusive complex in the Midcontinent Rift. With its arcuate area of 5630 km$^2$, the Duluth Complex constitutes the second-largest exposed mafic intrusive complex in the world, with only the Bushveld Complex of South Africa being larger \citep{Miller2002c}. The tholeiitic Duluth Complex was emplaced as sheet-like intrusions into the base of the comagmatic volcanic succession with the majority of its volume associated with the anorthositic series and the layered series of gabbroic and troctolitic cumulates (\citealp{Miller2002c}; Fig. \ref{fig:map}). In this work, we present $^{206}$Pb/$^{238}$U dates from the Duluth Complex, as well as the Beaver Bay Complex, to establish the duration of Duluth Complex magmatism and contextualize it with the chronology of rift volcanism.
+
+\section*{METHODS and RESULTS}
+
+U-Pb geochronology methods for isotope dilution thermal ionization mass spectrometry (ID-TIMS) follow \citet{Schmitz2012a}. Single zircon crystals were chemically abraded prior to analysis in the Boise State Isotope Geology Laboratory. Weighted means were calculated from multiple single zircon dates with some dates being excluded due to Pb-loss (Fig. \ref{fig:dates} and Table \ref{tab:geochron}).\footnote{GSA Data Repository item 2020XXX, table of individual zircon dates is available online at http://www.geosociety.org/datarepository. All paleomagnetic data and interpreted specimen directions are available to the measurement level in the MagIC database (https://earthref.org/MagIC/doi/).  All code associated with statistical tests and data visualization is available within a Zenodo repository.} Uncertainties for the weighted mean dates are given as $\pm$X/Y/Z in Table \ref{tab:geochron}, where X is the analytical uncertainty, Y is the combined analytical and tracer uncertainty, and Z is the combined analytical, tracer and $^{238}$U decay constant uncertainty (0.108$\%$; \citealp{Jaffey1971a}). This Z error needs to be utilized when comparing to dates developed using other decay systems (e.g., $^{40}$Ar/$^{39}$Ar, $^{187}$Re-$^{187}$Os). Given that the focus in this work is comparing these dates to one another, and to other $^{206}$Pb/$^{238}$U dates developed using EARTHTIME tracer solutions (e.g. \citealp{Swanson-Hysell2019a}), the X error will be referred to when the results are reported and discussed in the text. 
+
+\begin{figure}[!ht]
+\noindent\includegraphics[width=\textwidth]{./Figures/MCR_Dates.pdf}
+\caption{\small{Date bar plot of CA-ID-TIMS $^{206}$Pb/$^{238}$U dates for Midcontinent Rift volcanics and intrusives. Each vertical bar represents the date for an individual zircon (colored by the magnetic polarity of the unit) while the horizontal lines and grey boxes represent the weighted means and their uncertainty. The green horizontal bar represents the interval of emplacement of the layered and anorthositic series of the Duluth Complex. The orange horizontal bar represents the interval of Beaver Bay Complex magmatism represented by the Wilson Lake Ferrogabbro and the Silver Bay intrusions.}}
+\label{fig:dates}
+\end{figure}
+
+The Duluth Complex anorthositic series comprises plagioclase-rich gabbroic cumulates varying from anorthositic gabbro to anorthosite. Samples FC-1 and FC-4b are of gabbroic anorthosite collected from exposures near the former logging town of Forest Center. Zircon grains from these samples are commonly used as laser ablation U-Pb geochronology standards. A weighted mean $^{206}$Pb/$^{238}$U date for FC-1 of 1095.81 $\pm$ 0.16 Ma is calculated based on 10 single zircon dates (Table \ref{tab:geochron}). The FC-4b date is indistinguishable from FC-1 with a weighted mean $^{206}$Pb/$^{238}$U date of 1095.71 $\pm$ 0.17 Ma based on dates from 8 zircons. 
+
+\begin{table}[h!]
+\footnotesize
+\caption{Summary of CA-ID-TIMS $^{206}$Pb/$^{238}$U dates from Midcontinent Rift intrusions}
+\begin{tabular}{|p{3 cm}|p{2.8 cm}|p{1.6 cm}|c|ccc|c|c|p{1.7 cm}|}
+\hline
+Sample & Group & Latitude & $^{206}$Pb/$^{238}$U & \multicolumn{3}{|c|}{Error (2$\sigma$)} & MSWD & n \\
+ &  & Longitude & date (Ma) & X & Y & Z & & \\
+\hline
+PRI \textit{Partridge River intrusion} & Duluth Complex layered series & 47.5480\textdegree N 92.1074\textdegree W & 1096.19 & 0.19 & 0.36 & 1.15 & 0.45 & 6 \\
+\hline
+BEI \textit{Bald Eagle intrusion} & Duluth Complex layered series & 47.7516\textdegree N 91.5680\textdegree W & 1095.89 & 0.19 & 0.36 & 1.15 & 1.59 & 6 \\
+\hline
+FC-1 \textit{Forest Center anorthosite} & Duluth Complex anorthositic series & 47.7827\textdegree N 91.3266\textdegree W & 1095.81 & 0.16 & 0.34 & 1.14 & 1.44 & 10 \\
+\hline
+FC-4b \textit{Forest Center anorthosite} & Duluth Complex anorthositic series & 47.7677\textdegree N 91.3753\textdegree W & 1095.71 & 0.17 & 0.35 & 1.14 & 0.38 & 8 \\
+\hline
+HCT \textit{Houghtaling Creek troctolite} & Beaver Bay Complex & 47.6009\textdegree N 91.1497\textdegree W & 1095.44 & 0.26 & 0.40 & 1.16 & 1.13 & 4  \\
+\hline
+WLFG \textit{Wilson Lake ferrogabbro} & Beaver Bay Complex & 47.6620\textdegree N 91.0619\textdegree W & 1091.63 & 0.35 & 0.46 & 1.18 & 0.74 & 5 \\
+\hline
+BBC-SBA1 \textit{Silver Bay aplite} & Beaver Bay Complex & 47.6620\textdegree N 91.0619\textdegree W & 1091.61 & 0.14 & 0.30 & 1.2 & 1.0 & 6 \\
+\hline
+\end{tabular}\\
+%\begin{tablenotes}[para,flushleft]
+Notes: X--internal (analytical) uncertainty in the absence of external or systematic errors; Y--uncertainty incorporating the U-Pb tracer calibration error; Z--uncertainty including X and Y, as well as decay constant uncertainty; MSWD--mean square of weighted deviates; n--number of individual zircon dates included in the calculated sample mean date. All dates are from this study with the exception of BBC-SBA1 which was published in \cite{Fairchild2017a}. Data for individual zircons are provided in the Data Repository.
+%\end{tablenotes}
+\label{tab:geochron}
+\end{table}
+
+The layered series of the Duluth Complex is a suite of stratiform troctolitic to gabbroic cumulates that were emplaced as discrete layered intrusions (Fig. \ref{fig:map}). The PRI sample is a coarse-grained augite troctolite from the Partridge River intrusion which is at the base of the complex in contact with underlying Paleoproterozoic metasedimentary rocks (Fig. \ref{fig:map}). Data from 6 zircons result in a weighted mean $^{206}$Pb/$^{238}$U date of 1096.19 $\pm$ 0.19 Ma (Fig. \ref{fig:dates}). The BEI sample is a coarse-grained olivine gabbro from the Bald Eagle intrusion. This intrusion has been interpreted to be one of the youngest layered series units based on cross-cutting relationships inferred from aeromagnetic data \citep{Miller2002c}. Dates from 6 zircons of the BEI sample result in a weighted mean $^{206}$Pb/$^{238}$U date of 1095.89 $\pm$ 0.19 Ma (Fig. \ref{fig:dates}) that is indistinguishable from the anorthositic series FC-1 and FC-4b dates. 
+
+The Beaver Bay complex is a suite of dominantly hypabyssal (emplaced at shallow depth) intrusions that cross-cut the North Shore Volcanic Group (Fig. \ref{fig:map}). Sample HCT is an augite troctolite from the Houghtaling Creek troctolite. The Houghtaling Creek troctolite comprises medium-grained olivine-plagioclase cumulates interpreted to have been emplaced as a macrodike \citep{Miller2001a}. While some zircons from HCT have Pb-loss that was not fully mitigated by chemical abrasion, dates from 4 concordant zircons result in a weighted mean $^{206}$Pb/$^{238}$U date of 1095.44 $\pm$ 0.26 Ma (Fig. \ref{fig:dates}). A sample of coarse-grained ferrodiorite was collected as WLFG from the Wilson Lake ferrogabbro of the Beaver Bay Complex. The Wilson Lake ferrogabbro is a plug-shaped zoned intrusion that was emplaced into the roof zone of the Duluth Complex. Dates from 5 zircons result in a weighted mean $^{206}$Pb/$^{238}$U date of 1091.63 $\pm$ 0.35 Ma (Fig. \ref{fig:dates}). This date overlaps within uncertainty with the $^{206}$Pb/$^{238}$U date of 1091.61 $\pm$ 0.14 Ma from an aplite within a Silver Bay intrusion of the Beaver Bay Complex (\citealp{Fairchild2017a}; Figs. \ref{fig:map} and \ref{fig:dates}).
+
+\begin{figure}[!ht]
+\noindent\includegraphics[width=\textwidth]{./Figures/Duluth_Complex_pole.pdf}
+\caption{\small{Left panel: tilt-corrected site mean paleomagnetic directions from anorthositic and layered series sites of \cite{Beck1970a} in the vicinity of Duluth. Center panel: Virtual geomagnetic poles (VGPs) from Duluth-vicinity sites with $\alpha_{95}<15^{\circ}$ and from the FC1, FC4 and HCT sites give a mean pole of: 188.7\textdegree E, 35.6\textdegree N, N=24, A$_{95}$=3.1, k=92. Right panel: Duluth Complex paleomagnetic pole shown with a synthesized pole path developed using an Euler pole inversion of chronostratigraphically-constrained Midcontinent Rift volcanic poles \citep{Swanson-Hysell2019a}.}}
+\label{fig:poles}
+\end{figure}
+
+Paleomagnetic data from Midcontinent Rift intrusions throughout northeastern Minnesota, including the Duluth Complex, were published in \cite{Beck1970a}. These data include many sites from the layered series (37 sites) and anorthositic series (11 sites) collected in the vicinity of the city of Duluth (Fig. \ref{fig:poles}). Statistical tests show the site directions of the layered and anorthositic series to share a common mean, consistent with their similar U-Pb dates. In order to have paleomagnetic data directly paired with the geochronology, oriented cores were collected and analyzed from the sites of the FC-1, FC-4 and HCT samples. Magnetization was measured on a 2G DC-SQUID magnetometer in the UC Berkeley paleomagnetism lab. Following the measurement of natural remanent magnetization, the samples underwent alternating field or thermal demagnetization steps. Fits were made using the PmagPy software \citep{Tauxe2016a}. While \cite{Beck1970a} did not discuss or implement tilt corrections, the Duluth Complex and overlying lava flows gently dip towards Lake Superior. The paleomagnetic sites need to be tilt-corrected to the inferred paleohorizontal to properly interpret the paleomagnetic directions. We compiled abundant igneous layering orientation measurements, which are similar to the orientations of overlying lavas and interflow sediments, and use them for tilt-correction.
+
+The rapid progression of poles within the apparent polar wander path (APWP) of the Midcontinent Rift enable these paleomagnetic data to give chronological insight. The positions of poles from the early stage of rift magmatism are quite different from main stage lavas (Fig. \ref{fig:poles}). The similar position of virtual geomagnetic poles (VGPs) from across the Duluth Complex layered and anorthositic series, including the FC sites, is consistent with contemporaneous emplacement and they can be combined into a mean pole (Fig. \ref{fig:poles}). This paleomagnetic pole can be compared to a synthesized Midcontinent Rift APWP developed using an Euler pole inversion to chronostratigraphically-constrained volcanic poles \citep{Swanson-Hysell2019a}. The Duluth Complex pole lies  between the 1100 Ma to 1095 Ma path positions with the $A_{95}$ uncertainty of the pole overlapping with the two angular standard deviations ellipse of the 1095 Ma pole position. This result is consistent with a \textit{ca.} 1096 Ma age for the layered and anorthositic series of the Duluth Complex while strengthening the correlation with the volcanics.
+
+%could calculate these "stage" poles at 1 Myr intervals to sharpen the pencil on this comparison
+
+\section*{DISCUSSION}
+
+The new U-Pb dates, together with the paleomagnetic data, imply that the bulk of both the layered series and the anorthositic series of the Duluth Complex were emplaced in less than 900,000 years between \textit{ca.} 1096.4 and 1095.5 Ma (Fig. \ref{fig:dates}). Comparison with geochronology from Midcontinent Rift volcanics demonstrates that this emplacement was coeval with eruption of the upper southeast sequence of the North Shore Volcanic Group (NSVG) which comprises $\sim$7900 meters of lavas and is the thickest exposed Midcontinent Rift volcanic succession. The indistinguishable ages of the anorthositic and layered series of the Duluth Complex, together with coeval NSVG eruptions, indicate that \textit{ca.} 1096 Ma there was a large pulse of melt generation. 
+
+%These results strongly support models of pulsed intervals of voluminous magmatic activity within the $\sim$25 million year duration of Midcontinent Rift magmatism. 
+
+The 1095.44 $\pm$ 0.26 Ma age of the Houghtaling Creek troctolite is indistinguishable from the younger Duluth Complex dates. This result indicates that this pulse of voluminous magmatic activity is represented in some intrusions within the Beaver Bay Complex. As the NSVG thickened, the intrusive horizon migrated upwards including the major Houghtaling Creek macrodike. A younger pulse of Beaver Bay Complex magmatism postdates NSVG eruptions as units such as the Beaver River diabase and the Silver Bay intrusions penetrate the youngest NSVG lavas, including the 1093.94 $\pm$ 0.28 Ma Palisade Rhyolite (\citealp{Miller2001a, Swanson-Hysell2019a}; Fig. \ref{fig:map}). The age of this magmatism is represented by the indistinguishable dates of 1091.63 $\pm$ 0.35 Ma for the Wilson Lake ferrogabbro and 1091.61 $\pm$ 0.14 Ma from the Silver Bay intrusions (Fig. \ref{fig:dates}; Table \ref{tab:geochron}). This younger Beaver Bay Complex magmatism is coeval with the eruption of the more than $>$5 km thick Portage Lake Volcanics that are exposed on the Keweenaw Peninsula and on Isle Royale (Fig. \ref{fig:dates}).
+
+Rapid emplacement of the voluminous layered and anorthositic series of the Duluth Complex bears similarities to the geologically short duration ($<$1 Myr) of well-dated continental flood basalt provinces \citep{Burgess2015a, Schoene2019a}. This similarity supports the hypothesis put forwarded by \cite{Green1983a}, and advanced by others including \cite{Cannon1992a} and \cite{Stein2015a}, that the co-location of massive magmatism and rifting is the result of lithospheric extension atop decompression melting of an upwelling mantle plume. Heating of Laurentia lithosphere at the time 600 km to the north of the rift is indicated by thermochronologic data from middle to lower crustal xenoliths \citep{Edwards2018a}. Basaltic magma was also emplaced throughout the Southwest large igneous province coeval with the Midcontinent Rift, including sills more than 2300 km from Duluth \citep{Bright2014a}. That such a broad region of Laurentia lithosphere experienced heating and magmatism supports the interpretation that large-scale mantle upwelling was a driver of melt generation.
+
+%The Nd and Re-Os isotopic signatures of lava flows have been interpreted to be the result of plume-derived melts with variable interaction with continental lithospheric mantle \citep{Nicholson1997a, Shirey1997a}. 
+
+Both the \textit{ca.} 1108 early stage and \textit{ca.} 1096 Ma main stage volcanism within the Midcontinent Rift was voluminous and interpreted to be the result of a plume-related thermal anomaly. The interpretation that this volcanism is associated with a deep-seated mantle plume needs to be reconciled with both the long duration and the record of rapid equatorward motion of North America from a latitude of $\sim$54\textdegree N \textit{ca.} 1108 Ma during early stage flood basalt eruptions to $\sim$32\textdegree N by \textit{ca.} 1096 Ma main stage volcanism (paleolatitudes for the location of Duluth, MN). While some of this motion could be associated with true polar wander, in which the mesosphere and asthenosphere rotated in conjunction with the lithosphere, \cite{Swanson-Hysell2019a} showed that the record of paleomagnetic poles requires a substantial component of differential plate tectonic motion. The pulsed nature of magmatic activity could support a model wherein there were multiple upwelling pulses. As postulated by \cite{Cannon1992a}, the initial pulse that was expressed by \textit{ca.} 1108 early stage volcanism could have initiated lithospheric thinning. Given significant lithospheric thinning in the Midcontinent Rift region, subsequent positively-buoyant plume material that encountered Laurentia lithosphere would have experienced ``upside-down'' drainage wherein relief at the base of the lithosphere resulted in lateral and upward flow into the Midcontinent Rift \citep{Sleep1997a, Swanson-Hysell2014b}. One scenario is that Laurentia was migrating over a plume generation zone \citep{Burke2008a} from which multiple deep-seated mantle plumes upwelled to the lithosphere over that time interval. The first could have been centered on the Midcontinent Rift with the second encountering Laurentian lithosphere and being directed to the rift by upside-down drainage in addition to driving magmatism in southwest Laurentia. Another scenario is that \textit{ca.} 1096 Ma magmatism was invigorated by upwelling return flow enhanced by slab avalanche induced downwelling connected to the rapid plate motion of Laurentia that initiated in the early history of rift development \citep{Swanson-Hysell2019a}. Overall, the constraint that both the anorthositic and layered series of the Duluth Complex were emplaced in less than 1 million years requires an exceptional thermal anomaly that lead to voluminous rapid melt generation during the main stage of Midcontinent Rift development.
+
+%The indistinguishable age of rocks from the anorthositic and layered series of the Duluth Complex continue to support the model where they are genetically linked to the same episode of melt generation. The main variability between the two nearly-coeval intrusive suites comes in the concentration of plagioclase crystals with contact relationships suggesting that the crystal-ladened melts of the anorthositic complex being emplaced prior to less crystal-rich magma of the layered series intrusions \citep{Miller2002c}.
+
+%Including a discussion of other examples of co-located massive basaltic volcanism and rifting here could be valuable: CAMP; North Atlantic; Afar
+
+\subsection*{ACKNOWLEDGEMENTS}
+Project research was supported by NSF EAR-1847277 (awarded to NLS-H) and the University of Minnesota, Duluth Earth and Environmental Sciences. Funding for the analytical infrastructure of the Boise State University Isotope Geology Laboratory was provided by NSF EAR-0824974 and EAR-0521221. Margaret Avery and Dan Costello provided field assistance. Debbie Pierce assisted with analyses in the Boise State Isotope Geology Laboratory.
+\footnotesize
+
+\singlespacing
+
+\bibliographystyle{gsabull}
+\bibliography{../../../0000_Github/references/allrefs}
+
+\includepdf[pages=-,pagecommand={},width=8 in]{repository/Repository_Geochronology_Table.pdf}
+
+\renewcommand{\thetable}{DR\arabic{table}}
+
+\begin{table}[h!]
+\tiny
+\caption{Site level paleomagnetic data}
+\begin{tabular}{|l|r|r|r|r|r|r|r|r|r|r|r|}
+\hline
+site & site lat & site lon & n & dec$_{is}$ & inc$_{is}$ & dec$_{tc}$ & inc$_{tc}$ & k & $\alpha_{95}$ & VGP lat & VGP lon \\
+\hline
+	FC1 (AF)		&	47.7826	&	-91.3265	&	9	&	301.6	&	40.5	&	297.1	&	52.4	&	32	&	9.3	&	41.3	&	185.0	\\
+\textbf{FC1 (thermal)	}	&	47.7826	&	-91.3265	&	9	&	289.7	&	34.4	&	284.1	&	45.1	&	64	&	6.5	&	28.6	&	187.8	\\
+\textbf{FC4 (AF)	}	&	47.7625	&	-91.3827	&	7	&	296.0	&	26.8	&	292.6	&	38.3	&	59	&	7.9	&	30.8	&	177.4	\\
+	HCT1 (AF)		&	47.6008	&	-91.1495	&	7	&	287.2	&	35.6	&	281.0	&	46.0	&	54	&	8.3	&	26.9	&	190.8	\\
+\textbf{HCT1 (thermal)	}	&	47.6008	&	-91.1495	&	6	&	285.7	&	45.3	&	276.3	&	55.3	&	144	&	5.6	&	29.5	&	201.0	\\
+\textbf{1 (Beck layered)	}	&	46.68	&	-92.24	&	4	&	279.5	&	47.5	&	287.7	&	64.4	&	51	&	9.8	&	42.0	&	205.2	\\
+	3 (Beck layered)		&	46.68	&	-92.24	&	4	&	292.0	&	26.5	&	298.0	&	41.9	&	17	&	17.2	&	36.3	&	175.6	\\
+	4 (Beck layered)		&	46.68	&	-92.24	&	3	&	279.5	&	36.0	&	284.5	&	53.0	&	20	&	18.0	&	33.0	&	193.5	\\
+	5 (Beck layered)		&	46.68	&	-92.24	&	3	&	279.5	&	55.0	&	291.8	&	71.7	&	14	&	22.0	&	48.4	&	217.4	\\
+	6 (Beck layered)		&	46.68	&	-92.24	&	1	&	280.5	&	32.0	&	285.0	&	48.9	&		&		&	31.1	&	189.7	\\
+\textbf{7 (Beck layered)	}	&	46.68	&	-92.24	&	5	&	278.0	&	33.0	&	282.0	&	50.1	&	85	&	6.8	&	29.7	&	192.7	\\
+\textbf{8 (Beck layered)	}	&	46.68	&	-92.24	&	7	&	290.5	&	43.0	&	301.6	&	58.3	&	345	&	2.8	&	47.5	&	189.4	\\
+\textbf{9 (Beck layered)	}	&	46.68	&	-92.23	&	3	&	281.5	&	42.0	&	288.7	&	58.7	&	35	&	13.6	&	39.2	&	197.0	\\
+	10 (Beck layered)		&	46.70	&	-92.23	&	3	&	297.5	&	30.5	&	305.6	&	44.9	&	15	&	21.2	&	43.0	&	172.0	\\
+	11 (Beck layered)		&	46.70	&	-92.22	&	1	&	284.0	&	30.5	&	289.2	&	47.0	&		&		&	32.9	&	185.6	\\
+\textbf{12 (Beck layered)	}	&	46.72	&	-92.21	&	5	&	284.5	&	36.0	&	291.1	&	52.4	&	43	&	9.6	&	37.1	&	188.9	\\
+\textbf{13 (Beck layered)	}	&	46.69	&	-92.24	&	6	&	281.5	&	28.0	&	285.6	&	44.8	&	437	&	2.7	&	29.3	&	186.4	\\
+\textbf{14 (Beck layered)	}	&	46.72	&	-92.20	&	7	&	287.0	&	35.0	&	294.1	&	51.1	&	334	&	2.9	&	38.4	&	185.8	\\
+	15 (Beck layered)		&	46.73	&	-92.21	&	2	&	290.0	&	31.5	&	296.9	&	47.2	&		&		&	38.2	&	180.4	\\
+\textbf{17 (Beck layered)	}	&	46.74	&	-92.19	&	3	&	279.5	&	37.0	&	284.7	&	54.0	&	80	&	9.1	&	33.8	&	194.3	\\
+\textbf{19 (Beck layered)	}	&	46.75	&	-92.19	&	4	&	288.0	&	35.0	&	295.3	&	50.9	&	51	&	9.8	&	39.2	&	184.8	\\
+\textbf{20 (Beck layered)	}	&	46.77	&	-92.15	&	3	&	282.0	&	33.0	&	287.1	&	49.7	&	444	&	3.8	&	33.0	&	189.1	\\
+	25 (Beck layered)		&	46.78	&	-92.12	&	1	&	273.5	&	18.5	&	274.9	&	36.0	&		&		&	17.7	&	188.5	\\
+	27 (Beck layered)		&	46.77	&	-92.15	&	1	&	310.0	&	40.5	&	324.6	&	51.6	&		&		&	59.4	&	162.2	\\
+	30 (Beck layered)		&	46.77	&	-92.14	&	1	&	284.0	&	36.5	&	290.6	&	53.0	&		&		&	37.1	&	189.8	\\
+	32 (Beck layered)		&	46.77	&	-92.14	&	1	&	290.0	&	36.0	&	298.2	&	51.6	&		&		&	41.5	&	183.5	\\
+	33 (Beck layered)		&	46.77	&	-92.15	&	2	&	288.0	&	32.0	&	294.5	&	48.0	&		&		&	37.0	&	182.7	\\
+\textbf{35 (Beck layered)	}	&	46.79	&	-92.23	&	8	&	290.0	&	23.5	&	294.9	&	39.3	&	194	&	3.6	&	32.9	&	176.1	\\
+	36 (Beck layered)		&	46.78	&	-92.21	&	2	&	276.0	&	27.0	&	278.6	&	44.3	&		&		&	24.3	&	190.6	\\
+	37 (Beck layered)		&	46.79	&	-92.25	&	2	&	273.0	&	29.0	&	275.0	&	46.5	&		&		&	23.1	&	194.3	\\
+	92 (Beck layered)		&	46.81	&	-92.10	&	3	&	290.0	&	41.5	&	300.2	&	57.0	&	16	&	20.1	&	45.9	&	188.3	\\
+\textbf{93 (Beck layered)	}	&	46.83	&	-92.18	&	5	&	284.5	&	24.5	&	288.6	&	41.0	&	151	&	5.1	&	29.4	&	181.7	\\
+\textbf{94 (Beck layered)	}	&	46.85	&	-92.04	&	4	&	291.0	&	36.5	&	299.6	&	51.9	&	107	&	6.8	&	42.7	&	182.9	\\
+	97 (Beck layered)		&	46.78	&	-92.12	&	2	&	281.0	&	28.5	&	285.0	&	45.4	&		&		&	29.2	&	187.2	\\
+\textbf{98 (Beck layered)	}	&	46.77	&	-92.13	&	6	&	288.5	&	34.0	&	295.7	&	49.9	&	115	&	5.3	&	38.8	&	183.6	\\
+\textbf{99 (Beck layered)	}	&	46.77	&	-92.12	&	3	&	287.0	&	35.0	&	294.1	&	51.1	&	39	&	13.0	&	38.4	&	185.8	\\
+	103 (Beck layered)		&	46.75	&	-92.18	&	2	&	276.0	&	29.0	&	278.8	&	46.3	&		&		&	25.5	&	191.8	\\
+	215 (Beck layered)		&	48.08	&	-90.77	&	2	&	281.0	&	48.0	&	290.2	&	64.7	&		&		&	44.4	&	204.8	\\
+\textbf{217 (Beck layered)	}	&	46.79	&	-92.20	&	5	&	287.0	&	41.0	&	296.0	&	57.0	&	53	&	8.6	&	43.0	&	190.8	\\
+\textbf{218 (Beck layered)	}	&	46.79	&	-92.18	&	6	&	284.5	&	27.5	&	289.2	&	44.0	&	62	&	7.3	&	31.3	&	183.3	\\
+	219 (Beck layered)		&	46.79	&	-92.17	&	5	&	284.5	&	33.5	&	290.5	&	49.9	&	10	&	19.7	&	35.3	&	187.1	\\
+\textbf{220 (Beck layered)	}	&	46.80	&	-92.15	&	5	&	284.0	&	30.5	&	289.2	&	47.0	&	291	&	3.7	&	32.9	&	185.6	\\
+\textbf{221 (Beck layered)	}	&	46.79	&	-92.14	&	5	&	290.5	&	27.5	&	296.4	&	43.2	&	1433	&	1.7	&	35.8	&	177.6	\\
+\textbf{18 (Beck anorthosite)	}	&	46.75	&	-92.17	&	7	&	279.0	&	37.5	&	284.1	&	54.5	&	91	&	5.5	&	33.7	&	195.2	\\
+	21 (Beck anorthosite)		&	46.77	&	-92.15	&	2	&	290.0	&	42.0	&	300.5	&	57.5	&		&		&	46.3	&	188.8	\\
+	22 (Beck anorthosite)		&	46.78	&	-92.12	&	6	&	275.0	&	40.5	&	279.1	&	57.8	&	10	&	17.8	&	32.6	&	201.4	\\
+	23 (Beck anorthosite)		&	46.78	&	-92.12	&	2	&	295.5	&	39.5	&	306.5	&	54.0	&		&		&	48.5	&	180.6	\\
+	26 (Beck anorthosite)		&	46.77	&	-92.15	&	2	&	309.5	&	43.5	&	325.8	&	54.5	&		&		&	61.9	&	165.6	\\
+	31 (Beck anorthosite)		&	46.77	&	-92.14	&	1	&	278.0	&	33.0	&	282.0	&	50.1	&		&		&	29.7	&	192.7	\\
+	38 (Beck anorthosite)		&	46.83	&	-92.11	&	2	&	262.0	&	33.0	&	260.9	&	50.6	&		&		&	16.7	&	206.2	\\
+	40 (Beck anorthosite)		&	46.83	&	-92.09	&	2	&	309.0	&	35.0	&	320.7	&	46.6	&		&		&	54.0	&	160.2	\\
+	101 (Beck anorthosite)		&	46.76	&	-92.16	&	2	&	296.5	&	37.5	&	306.9	&	51.9	&		&		&	47.6	&	177.7	\\
+	102 (Beck anorthosite)		&	46.75	&	-92.18	&	1	&	275.0	&	29.0	&	277.6	&	46.4	&		&		&	24.7	&	192.7	\\
+\textbf{222 (Beck anorthosite)	}	&	46.76	&	-92.15	&	5	&	270.5	&	43.0	&	273.0	&	60.6	&	75	&	7.3	&	30.7	&	207.6	\\
+\hline
+\end{tabular}
+%\begin{tablenotes}[para,flushleft]
+
+Notes: n--number of samples analyzed and included in the site mean; dec-- mean declination for the site (is = insitu; tc = tilt-corrected); inc--mean inclination for the site; k--Fisher precision parameter; $\alpha_{95}$--95$\%$ confidence limit in degrees; VGP lat--latitude of the virtual geomagnetic pole for the site; VGP lon--longitude of the virtual geomagnetic pole for the site. Sites in \textbf{bold} were included in the calculation of the mean pole (filtered for $\alpha_{95}<15^{\circ}$ and so that only one site for FC1 and HCT). The resulting mean pole is: 188.7\textdegree E, 35.6\textdegree N, N=24, A$_{95}$=3.1, k=92.
+%\end{tablenotes}
+\end{table}
+
+\end{document}
+
+

@@ -1,0 +1,4 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+FC1	North Shore	47.8	-91.3	Yiming Zhang	This study
+HCT1	North Shore	47.8	-91.3	Yiming Zhang	This study

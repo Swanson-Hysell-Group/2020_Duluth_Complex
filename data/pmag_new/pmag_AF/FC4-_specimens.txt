@@ -1,0 +1,11 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+FC4-1a	FC4-1		This study	LP-NOMAG		
+FC4-2a	FC4-2		This study	LP-NOMAG		
+FC4-3a	FC4-3		This study	LP-NOMAG		
+FC4-4a	FC4-4		This study	LP-NOMAG		
+FC4-5a	FC4-5		This study	LP-NOMAG		
+FC4-6a	FC4-6		This study	LP-NOMAG		
+FC4-7a	FC4-7		This study	LP-NOMAG		
+FC4-8a	FC4-8		This study	LP-NOMAG		
+FC4-9a	FC4-9		This study	LP-NOMAG		

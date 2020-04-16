@@ -1,0 +1,19 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+FC1-1	FC1	0				Yiming Zhang	  -79.4	    0.0	    0.0	   90.0	  -60.0	This study	SO-CMD-NORTH
+FC1-2	FC1	0				Yiming Zhang	  -74.0	    0.0	    0.0	   90.0	  -57.0	This study	SO-CMD-NORTH
+FC1-3	FC1	0				Yiming Zhang	  -81.6	    0.0	    0.0	   90.0	  -66.0	This study	SO-CMD-NORTH
+FC1-4	FC1	0				Yiming Zhang	  -81.7	    0.0	    0.0	   90.0	  -48.0	This study	SO-CMD-NORTH
+FC1-5	FC1	0				Yiming Zhang	  265.2	    0.0	    0.0	   90.0	  -53.0	This study	SO-CMD-NORTH
+FC1-6	FC1	0				Yiming Zhang	  -88.8	    0.0	    0.0	   90.0	  -56.0	This study	SO-CMD-NORTH
+FC1-7	FC1	0				Yiming Zhang	  -77.9	    0.0	    0.0	   90.0	  -62.0	This study	SO-CMD-NORTH
+FC1-8	FC1	0				Yiming Zhang	  -74.1	    0.0	    0.0	   90.0	  -47.0	This study	SO-CMD-NORTH
+FC1-9	FC1	0				Yiming Zhang	  -56.2	    0.0	    0.0	   90.0	  -82.0	This study	SO-CMD-NORTH
+HCT1-1	HCT1	0				Yiming Zhang	  -82.2	    0.0	    0.0	   90.0	  -17.0	This study	SO-CMD-NORTH
+HCT1-2	HCT1	0				Yiming Zhang	  -75.3	    0.0	    0.0	   90.0	  -16.0	This study	SO-CMD-NORTH
+HCT1-3	HCT1	0				Yiming Zhang	  -62.8	    0.0	    0.0	   90.0	  -14.0	This study	SO-CMD-NORTH
+HCT1-4	HCT1	0				Yiming Zhang	  -53.8	    0.0	    0.0	   90.0	  -14.0	This study	SO-CMD-NORTH
+HCT1-5	HCT1	0				Yiming Zhang	  -84.6	    0.0	    0.0	   90.0	  -11.0	This study	SO-CMD-NORTH
+HCT1-6	HCT1	0				Yiming Zhang	  -64.6	    0.0	    0.0	   90.0	  -11.0	This study	SO-CMD-NORTH
+HCT1-7	HCT1	0				Yiming Zhang	  -48.0	    0.0	    0.0	   90.0	  -12.0	This study	SO-CMD-NORTH
+HCT1-8	HCT1	0				Yiming Zhang	  -38.0	    0.0	    0.0	   90.0	  -15.0	This study	SO-CMD-NORTH

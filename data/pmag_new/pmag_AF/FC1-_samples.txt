@@ -1,0 +1,11 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+FC1-1	FC1	0					  -79.4	    0.0	    0.0	   90.0	  -60.0	This study	SO-CMD-NORTH
+FC1-2	FC1	0					  -74.0	    0.0	    0.0	   90.0	  -57.0	This study	SO-CMD-NORTH
+FC1-3	FC1	0					  -81.6	    0.0	    0.0	   90.0	  -66.0	This study	SO-CMD-NORTH
+FC1-4	FC1	0					  -81.7	    0.0	    0.0	   90.0	  -48.0	This study	SO-CMD-NORTH
+FC1-5	FC1	0					  265.2	    0.0	    0.0	   90.0	  -53.0	This study	SO-CMD-NORTH
+FC1-6	FC1	0					  -88.8	    0.0	    0.0	   90.0	  -56.0	This study	SO-CMD-NORTH
+FC1-7	FC1	0					  -77.9	    0.0	    0.0	   90.0	  -62.0	This study	SO-CMD-NORTH
+FC1-8	FC1	0					  -74.1	    0.0	    0.0	   90.0	  -47.0	This study	SO-CMD-NORTH
+FC1-9	FC1	0					  -56.2	    0.0	    0.0	   90.0	  -82.0	This study	SO-CMD-NORTH
