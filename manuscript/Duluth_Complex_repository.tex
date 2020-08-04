@@ -35,10 +35,87 @@
 
 \begin{document}
 
+\renewcommand{\thefigure}{DR\arabic{figure}}
+\begin{figure}[!ht]
+\noindent\includegraphics[width=0.88\textwidth]{./repository/Concordia_Plots.pdf}
+\centering
+\caption{\small{U-Pb concordia plots for the new zircon dates. The grey region illustrates uncertainty on concordia due to the decay constant uncertainties. The ellipses represent  2$\sigma$ analytical uncertainty on individual zircon dates. Red ellipses are analyses included in the $^{206}$Pb/$^{238}$U weighted mean dates while the grey ellipses are those that were excluded. The scale is the same for the PRI, BEI, FC1 and FC4b data and zoomed out for HCT and WLFG as a result of grains that we interpret to have unmitigated Pb loss.}}
+\label{fig:map}
+\end{figure}
+
 \includepdf[pages=-,pagecommand={},width=8 in]{repository/Repository_Geochronology_Table.pdf}
+
+%\renewcommand{\thetable}{DR\arabic{table}}
+%\addtocounter{table}{1}
+%\begin{table}[h!]
+%\footnotesize
+%\caption{$^{207}$Pb/$^{206}$Pb dates for the Midcontinent Rift intrusion dates discussed in the paper}
+%\begin{tabular}{|p{3 cm}|p{3.4 cm}|p{3.4 cm}|cc|c|c|}
+%\hline
+%Sample & $^{207}$Pb/$^{206}$Pb date (Ma) & $^{207}$Pb/$^{206}$Pb date (Ma) & \multicolumn{2}{|c|}{Uncertainty (2$\sigma$)} & MSWD & n/N \\
+% &  $^{238}$U/$^{235}$U = 137.818 & $^{238}$U/$^{235}$U = 137.88 & X & Z & & \\
+%  &  \cite{Hiess2012a} & \cite{Steiger1977a} &  & & & \\
+%\hline
+%PRI \textit{Partridge River intrusion}  & & 1097.73  & 0.36 & 5.1 & 0.99 & 6/6 \\
+%\hline
+%BEI \textit{Bald Eagle intrusion} &  & 1097.40 & 0.38 & 5.1 & 1.14 & 6/6 \\
+%\hline
+%AS3 \textit{Duluth anorthosite} &  &  1098.59 & 0.33 & 5.1 & 0.37 & 8/8 \\
+%\hline
+%FC1 \textit{Forest Center anorthosite}   & & 1098.21 & 0.25 & 5.0 & 0.94 & 10/10 \\
+%\hline
+%FC4b \textit{Forest Center anorthosite}   &  & 1097.53 & 0.32 & 5.1 & 1.20 & 7/8 \\
+%\hline
+%HCT \textit{Houghtaling Creek troctolite}   & & 1097.43 & 0.46 & 5.1 & 1.93 & 11/11 \\
+%\hline
+%WLFG \textit{Wilson Lake ferrogabbro}   & & 1094.2 & 1.1 & 5.1 & 0.51 & 8/8 \\
+%\hline
+%BBC-SBA1 \textit{Silver Bay aplite}  &  1093.22 & 1094.15 & 0.51 &5.1 & 0.86 & 6/6 \\
+%\hline
+%\end{tabular}\\
+%%\begin{tablenotes}[para,flushleft]
+%\textcolor{red}{What U ratio are the 7/6 dates in the table using? Are these means in the right columns?}
+%Notes: X--internal (analytical) uncertainty in the absence of external or systematic uncertainties; Z--uncertainty including X, as well as decay constant uncertainty \citep{Jaffey1971a}). This Z uncertainty needs to be utilized when comparing to dates developed using other decay systems (e.g., $^{40}$Ar/$^{39}$Ar, $^{187}$Re-$^{187}$Os); MSWD--mean square of weighted deviates; n--number of individual zircon dates included in the calculated sample mean date; N--number of individual zircons analyzed for the sample. All dates are from this study with the exceptions of AS3 which was published in \cite{Schoene2006a} and BBC-SBA1 which was published in \cite{Fairchild2017a}. Data for individual zircons are provided in the Data Repository.
+%%\end{tablenotes}
+%\label{tab:geochron}
+%\end{table}
 
 \renewcommand{\thetable}{DR\arabic{table}}
 \addtocounter{table}{1}
+\begin{table}[h!]
+\footnotesize
+\caption{$^{207}$Pb/$^{206}$Pb dates for the Midcontinent Rift intrusion dates discussed in the paper using the \cite{Steiger1977a} $^{238}$U/$^{235}$U ratio of 137.88 for comparison to legacy data}
+\begin{tabular}{|p{3 cm}|p{3.4 cm}|p{3.4 cm}|cc|c|c|}
+\hline
+Sample & $^{207}$Pb/$^{206}$Pb date (Ma) & $^{207}$Pb/$^{206}$Pb date (Ma) & \multicolumn{2}{|c|}{Uncertainty (2$\sigma$)} & MSWD & n/N \\
+ &  $^{238}$U/$^{235}$U = 137.818 & $^{238}$U/$^{235}$U = 137.88 & X & Z & & \\
+  &  \cite{Hiess2012a} & \cite{Steiger1977a} &  & & & \\
+\hline
+PRI \textit{Partridge River intrusion}  & & 1097.73  & 0.36 & 5.1 & 0.99 & 6/6 \\
+\hline
+BEI \textit{Bald Eagle intrusion} &  & 1097.40 & 0.38 & 5.1 & 1.14 & 6/6 \\
+\hline
+AS3 \textit{Duluth anorthosite} &  &  1098.59 & 0.33 & 5.1 & 0.37 & 8/8 \\
+\hline
+FC1 \textit{Forest Center anorthosite}   & & 1098.21 & 0.25 & 5.0 & 0.94 & 10/10 \\
+\hline
+FC4b \textit{Forest Center anorthosite}   &  & 1097.53 & 0.32 & 5.1 & 1.20 & 7/8 \\
+\hline
+HCT \textit{Houghtaling Creek troctolite}   & & 1097.43 & 0.46 & 5.1 & 1.93 & 11/11 \\
+\hline
+WLFG \textit{Wilson Lake ferrogabbro}   & & 1094.2 & 1.1 & 5.1 & 0.51 & 8/8 \\
+\hline
+BBC-SBA1 \textit{Silver Bay aplite}  &  1093.22 & 1094.15 & 0.51 &5.1 & 0.86 & 6/6 \\
+\hline
+\end{tabular}\\
+%\begin{tablenotes}[para,flushleft]
+\textcolor{red}{I think that the U ratio of the 7/6 dates in the table are using 137.88. This needs to be confirmed with Mark and added to the DR1 table notes. Should we provide dates using the updated ratio in this table as well?}
+Notes: X--internal (analytical) uncertainty in the absence of external or systematic uncertainties; Z--uncertainty including X, as well as decay constant uncertainty \citep{Jaffey1971a}). This Z uncertainty needs to be utilized when comparing to dates developed using other decay systems (e.g., $^{40}$Ar/$^{39}$Ar, $^{187}$Re-$^{187}$Os); MSWD--mean square of weighted deviates; n--number of individual zircon dates included in the calculated sample mean date; N--number of individual zircons analyzed for the sample. All dates are from this study with the exceptions of AS3 which was published in \cite{Schoene2006a} and BBC-SBA1 which was published in \cite{Fairchild2017a}. Data for individual zircons are provided in the Data Repository.
+%\end{tablenotes}
+\label{tab:geochron}
+\end{table}
+
+
 \begin{table}[h!]
 \tiny
 \caption{Site level paleomagnetic data}
@@ -107,6 +184,12 @@ site & site lat & site lon & n & dec$_{is}$ & inc$_{is}$ & dec$_{tc}$ & inc$_{tc
 Notes: n--number of samples analyzed and included in the site mean; dec-- mean declination for the site (is = insitu; tc = tilt-corrected); inc--mean inclination for the site; k--Fisher precision parameter; $\alpha_{95}$--95$\%$ confidence limit in degrees; VGP lat--latitude of the virtual geomagnetic pole for the site; VGP lon--longitude of the virtual geomagnetic pole for the site. Sites in \textbf{bold} were included in the calculation of the mean pole (filtered for $\alpha_{95}<15^{\circ}$ and so that only one site for FC1 and HCT). The resulting mean pole is: 188.7\textdegree E, 35.6\textdegree N, N=24, A$_{95}$=3.1, k=92.
 %\end{tablenotes}
 \end{table}
+
+\singlespacing
+
+\nocite{Schmitz2007b}
+\bibliographystyle{gsabull}
+\bibliography{../../../0000_Github/references/allrefs}
 
 \end{document}
 
