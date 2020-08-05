@@ -14,7 +14,7 @@
 \usepackage{longtable}
 
 \usepackage[aboveskip=1pt,labelfont=bf,labelsep=period,justification=raggedright,singlelinecheck=off]{caption}
-\doublespacing
+%\doublespacing
 
 \raggedright
 \textwidth = 6.5 in
@@ -24,7 +24,7 @@
 \topmargin = 0.0 in
 \headheight = 0.0 in
 \headsep = 0.5 in
-\parskip = 0.1 in
+\parskip = 0.0 in
 \parindent = 0.2 in
 
 \pagestyle{myheadings}
@@ -42,6 +42,18 @@
 \caption{\small{U-Pb concordia plots for the new zircon dates. The grey region illustrates uncertainty on concordia due to the decay constant uncertainties. The ellipses represent  2$\sigma$ analytical uncertainty on individual zircon dates. Red ellipses are analyses included in the $^{206}$Pb/$^{238}$U weighted mean dates while the grey ellipses are those that were excluded. The scale is the same for the PRI, BEI, FC1 and FC4b data and zoomed out for HCT and WLFG as a result of grains that we interpret to have unmitigated Pb loss.}}
 \label{fig:map}
 \end{figure}
+
+\subsubsection*{CA-TIMS U-Pb Geochronology Methods}
+
+{\footnotesize\textcolor{red}{This method section needs to be reviewed by Mark in consultation with the data reduction files. A note from Jim in this regard says: ``\textit{There are several things I do not know because Mark did the data reduction. One is the U ratio. I put in 137.88. Other is how the Th-U disequilibrium correction was done. This should make little difference for samples this old, but we should still ask Mark to make sure we get it correct. Final thing is whether any of the analyses had enough radiogenic Pb so that the Pb was run on the Faraday cups instead of the Daly.}''}}
+
+U-Pb dates were obtained by the chemical abrasion isotope dilution thermal ionization mass spectrometry (CA-TIMS) method from analyses composed of single zircon grains (Table DR1), modified after \cite{Mattinson2005a}. Zircon was separated from rocks using standard techniques, and placed in a muffle furnace at 900\textdegree C for 60 hours in quartz beakers. 
+
+Zircon was put into 3 ml Teflon PFA beakers and loaded into 300 $\mu$l Teflon PFA microcapsules. Fifteen microcapsules were placed in a large-capacity Parr vessel and the zircon partially dissolved in 120 $\mu$l of 29 M HF for 12 hours at 180\textdegree C. Zircon was returned to 3 ml Teflon PFA beakers, HF was removed, and zircon was immersed in 3.5 M HNO$_\mathrm{3}$, ultrasonically cleaned for an hour, and fluxed on a hotplate at 80\textdegree C for an hour. The HNO$_\mathrm{3}$ was removed and zircon was rinsed twice in ultrapure H$_\mathrm{2}$O before being reloaded into the 300 $\mu$l Teflon PFA microcapsules (rinsed and fluxed in 6 M HCl during sonication and washing of the zircon) and spiked with the EARTHTIME mixed $^{233}$U-$^{235}$U-$^{205}$Pb tracer solution (ET535). Zircon was dissolved in Parr vessels in 120 $\mu$l of 29 M HF with a trace of 3.5 M HNO$_\mathrm{3}$ at 220\textdegree C for 48 hours, dried to fluorides, and re-dissolved in 6 M HCl at 180\textdegree C overnight. U and Pb were separated from the zircon matrix using an HCl-based anion-exchange chromatographic procedure \citep{Krogh1973a}, eluted together and dried with 2 $\mu$l of 0.05 N H$_\mathrm{3}$PO$_\mathrm{4}$.
+
+Pb and U were loaded on a single outgassed Re filament in 5 $\mu$l of a silica-gel/phosphoric acid mixture \citep{Gerstenberger1997a}, and U and Pb isotopic measurements made on a GV Isoprobe-T multicollector thermal ionization mass spectrometer equipped with an ion-counting Daly detector. Pb isotopes were measured by peak-jumping all isotopes on the Daly detector for 160 cycles, and corrected for 0.16 $\pm$ 0.03$\%$/a.m.u. (1$\sigma$) mass fractionation. Transitory isobaric interferences due to high-molecular weight organics, particularly on $^{204}$Pb and $^{207}$Pb, disappeared within approximately 30 cycles, while ionization efficiency averaged 10$^4$ cps/pg of each Pb isotope. Linearity (to $\geq$1.4 x 10$^6$ cps) and the associated deadtime correction of the Daly detector were determined by analysis of NBS982. Uranium was analyzed as UO$_2^+$ ions in static Faraday mode on 10$^{11}$ ohm resistors for 300 cycles, and corrected for isobaric interference of $^{233}$U$^{18}$O$^{16}$O on $^{235}$U$^{16}$O$^{16}$O with an $^{18}$O/$^{16}$O of 0.00206. Ionization efficiency averaged 20 mV/ng of each U isotope. U mass fractionation was corrected using the known $^{233}$U/$^{235}$U ratio of the ET535 tracer solution. 
+
+CA-TIMS U-Pb dates and uncertainties were calculated using the algorithms of \cite{Schmitz2007a}, ET535 tracer solution \cite{Condon2015a} with calibration of $^{235}$U/$^{205}$Pb = 100.233, $^{233}$U/$^{235}$U = 0.99506, and $^{205}$Pb/$^{204}$Pb = 11268, and U decay constants recommended by \cite{Jaffey1971a}, including $^{238U}$/$^{235}$U of 137.88. $^{206}$Pb/$^{238}$U ratios and dates were corrected for initial $^{230}$Th disequilibrium using D$_{Th/U}$ = 0.2 $\pm$ 0.1 (2$\sigma$) and the algorithms of \cite{Crowley2007a}, resulting in an increase in the $^{206}$Pb/$^{238}$U dates of $\sim$0.09 Ma. All common Pb in analyses was attributed to laboratory blank and subtracted based on the measured laboratory Pb isotopic composition and associated uncertainty. U blanks are estimated at 0.013 pg. 
 
 \includepdf[pages=-,pagecommand={},width=8 in]{repository/Repository_Geochronology_Table.pdf}
 
@@ -84,7 +96,7 @@
 \addtocounter{table}{1}
 \begin{table}[h!]
 \footnotesize
-\caption{$^{207}$Pb/$^{206}$Pb dates for the Midcontinent Rift intrusion dates discussed in the paper using the \cite{Steiger1977a} $^{238}$U/$^{235}$U ratio of 137.88 for comparison to legacy data}
+\caption{$^{207}$Pb/$^{206}$Pb dates for the Midcontinent Rift intrusion dates discussed in the paper using the \cite{Steiger1977a} $^{238}$U/$^{235}$U ratio of 137.88 for comparison to previously published dates {\footnotesize\textcolor{red}{should we include this table?}}}
 \begin{tabular}{|p{3 cm}|p{3.4 cm}|p{3.4 cm}|cc|c|c|}
 \hline
 Sample & $^{207}$Pb/$^{206}$Pb date (Ma) & $^{207}$Pb/$^{206}$Pb date (Ma) & \multicolumn{2}{|c|}{Uncertainty (2$\sigma$)} & MSWD & n/N \\
@@ -185,6 +197,7 @@ Notes: n--number of samples analyzed and included in the site mean; dec-- mean d
 %\end{tablenotes}
 \end{table}
 
+\newpage
 \singlespacing
 
 \nocite{Schmitz2007b}
