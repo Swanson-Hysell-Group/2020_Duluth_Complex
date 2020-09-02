@@ -1,12 +1,12 @@
 # Rapid emplacement of massive Duluth Complex intrusions within the Midcontinent Rift
 
-This repository contains the manuscript, data, and code associated with manuscript: 
+This repository contains the manuscript, data, and code associated with the manuscript: 
 
 Swanson-Hysell, N.L., Hoaglund, S.A., Crowley, J.L., Schmitz, M.D., Zhang, Y., and Miller Jr., J.D. (2020), **Rapid emplacement of massive Duluth Complex intrusions within the Midcontinent Rift**, *Geology*, doi:10.1130/G47873.1
 
 ## Code 
 
-This folder contains a Jupyter notebook developed using a Python 3 kernel that generates the figures and conducts the data analysis associated with the study. This notebook can be viewed here: https://github.com/Swanson-Hysell-Group/2020_Duluth_Complex/blob/master/code/Duluth_Complex_notebook.ipynb
+This folder contains a Jupyter notebook developed using a Python 3 kernel that generates the figures and conducts the data analysis associated with the study. The notebook uses the Python packages listed in the laurentia_paleogeography.yml file in the folder. This notebook can be viewed here: https://github.com/Swanson-Hysell-Group/2020_Duluth_Complex/blob/master/code/Duluth_Complex_notebook.ipynb
 
 ## Data
 
