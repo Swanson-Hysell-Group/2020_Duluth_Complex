@@ -2,7 +2,7 @@
 
 This repository contains the manuscript, data, and code associated with manuscript: 
 
-Swanson-Hysell, N.L., Hoaglund, S.A., Crowley, J.L., Schmitz, M.D., Zhang, Y., and Miller Jr., J.D. (in press), **Rapid emplacement of massive Duluth Complex intrusions within the Midcontinent Rift**, *Geology*
+Swanson-Hysell, N.L., Hoaglund, S.A., Crowley, J.L., Schmitz, M.D., Zhang, Y., and Miller Jr., J.D. (2020), **Rapid emplacement of massive Duluth Complex intrusions within the Midcontinent Rift**, *Geology*, doi:10.1130/G47873.1
 
 ## Code 
 
