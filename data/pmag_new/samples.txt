@@ -1,45 +1,45 @@
-tab	samples
-analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	geologic_classes	geologic_types	height	lithologies	method_codes	sample	site
-	-79.4	0.0	0.0	90.0	This study	-60.0			0		SO-CMD-NORTH	FC1-1	FC1
-	-74.0	0.0	0.0	90.0	This study	-57.0			0		SO-CMD-NORTH	FC1-2	FC1
-	-81.6	0.0	0.0	90.0	This study	-66.0			0		SO-CMD-NORTH	FC1-3	FC1
-	-81.7	0.0	0.0	90.0	This study	-48.0			0		SO-CMD-NORTH	FC1-4	FC1
-	265.2	0.0	0.0	90.0	This study	-53.0			0		SO-CMD-NORTH	FC1-5	FC1
-	-88.8	0.0	0.0	90.0	This study	-56.0			0		SO-CMD-NORTH	FC1-6	FC1
-	-77.9	0.0	0.0	90.0	This study	-62.0			0		SO-CMD-NORTH	FC1-7	FC1
-	-74.1	0.0	0.0	90.0	This study	-47.0			0		SO-CMD-NORTH	FC1-8	FC1
-	-56.2	0.0	0.0	90.0	This study	-82.0			0		SO-CMD-NORTH	FC1-9	FC1
-Yiming Zhang	-79.4	0.0	0.0	90.0	This study	-60.0			0		SO-CMD-NORTH	FC1-1	FC1
-Yiming Zhang	-74.0	0.0	0.0	90.0	This study	-57.0			0		SO-CMD-NORTH	FC1-2	FC1
-Yiming Zhang	-81.6	0.0	0.0	90.0	This study	-66.0			0		SO-CMD-NORTH	FC1-3	FC1
-Yiming Zhang	-81.7	0.0	0.0	90.0	This study	-48.0			0		SO-CMD-NORTH	FC1-4	FC1
-Yiming Zhang	265.2	0.0	0.0	90.0	This study	-53.0			0		SO-CMD-NORTH	FC1-5	FC1
-Yiming Zhang	-88.8	0.0	0.0	90.0	This study	-56.0			0		SO-CMD-NORTH	FC1-6	FC1
-Yiming Zhang	-77.9	0.0	0.0	90.0	This study	-62.0			0		SO-CMD-NORTH	FC1-7	FC1
-Yiming Zhang	-74.1	0.0	0.0	90.0	This study	-47.0			0		SO-CMD-NORTH	FC1-8	FC1
-Yiming Zhang	-56.2	0.0	0.0	90.0	This study	-82.0			0		SO-CMD-NORTH	FC1-9	FC1
-Yiming Zhang	-82.2	0.0	0.0	90.0	This study	-17.0			0		SO-CMD-NORTH	HCT1-1	HCT1
-Yiming Zhang	-75.3	0.0	0.0	90.0	This study	-16.0			0		SO-CMD-NORTH	HCT1-2	HCT1
-Yiming Zhang	-62.8	0.0	0.0	90.0	This study	-14.0			0		SO-CMD-NORTH	HCT1-3	HCT1
-Yiming Zhang	-53.8	0.0	0.0	90.0	This study	-14.0			0		SO-CMD-NORTH	HCT1-4	HCT1
-Yiming Zhang	-84.6	0.0	0.0	90.0	This study	-11.0			0		SO-CMD-NORTH	HCT1-5	HCT1
-Yiming Zhang	-64.6	0.0	0.0	90.0	This study	-11.0			0		SO-CMD-NORTH	HCT1-6	HCT1
-Yiming Zhang	-48.0	0.0	0.0	90.0	This study	-12.0			0		SO-CMD-NORTH	HCT1-7	HCT1
-Yiming Zhang	-38.0	0.0	0.0	90.0	This study	-15.0			0		SO-CMD-NORTH	HCT1-8	HCT1
-	6.1	0.0	0.0	90.0	This study	-55.0			0		SO-CMD-NORTH	FC4-1	FC4
-	-14.9	0.0	0.0	90.0	This study	-101.0			0		SO-CMD-NORTH	FC4-2	FC4
-	6.1	0.0	0.0	90.0	This study	-54.0			0		SO-CMD-NORTH	FC4-3	FC4
-	-63.9	0.0	0.0	90.0	This study	-94.0			0		SO-CMD-NORTH	FC4-4	FC4
-	-70.9	0.0	0.0	90.0	This study	-86.0			0		SO-CMD-NORTH	FC4-5	FC4
-	-68.9	0.0	0.0	90.0	This study	-89.0			0		SO-CMD-NORTH	FC4-6	FC4
-	-51.8	0.0	0.0	90.0	This study	-98.0			0		SO-CMD-NORTH	FC4-7	FC4
-	-33.9	0.0	0.0	90.0	This study	-106.0			0		SO-CMD-NORTH	FC4-8	FC4
-	-4.9	0.0	0.0	90.0	This study	-77.0			0		SO-CMD-NORTH	FC4-9	FC4
-	-82.2	0.0	0.0	90.0	This study	-17.0			0		SO-CMD-NORTH	HCT1-1	HCT1
-	-75.3	0.0	0.0	90.0	This study	-16.0			0		SO-CMD-NORTH	HCT1-2	HCT1
-	-62.8	0.0	0.0	90.0	This study	-14.0			0		SO-CMD-NORTH	HCT1-3	HCT1
-	-53.8	0.0	0.0	90.0	This study	-14.0			0		SO-CMD-NORTH	HCT1-4	HCT1
-	-84.6	0.0	0.0	90.0	This study	-11.0			0		SO-CMD-NORTH	HCT1-5	HCT1
-	-64.6	0.0	0.0	90.0	This study	-11.0			0		SO-CMD-NORTH	HCT1-6	HCT1
-	-48.0	0.0	0.0	90.0	This study	-12.0			0		SO-CMD-NORTH	HCT1-7	HCT1
-	-38.0	0.0	0.0	90.0	This study	-15.0			0		SO-CMD-NORTH	HCT1-8	HCT1
+tab	samples														
+sample	site	height	lat	lon	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+FC1-1	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	280.6	0	0	90	-60	This study	SO-CMD-NORTH
+FC1-2	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	286	0	0	90	-57	This study	SO-CMD-NORTH
+FC1-3	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	278.4	0	0	90	-66	This study	SO-CMD-NORTH
+FC1-4	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	278.3	0	0	90	-48	This study	SO-CMD-NORTH
+FC1-5	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	265.2	0	0	90	-53	This study	SO-CMD-NORTH
+FC1-6	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	271.2	0	0	90	-56	This study	SO-CMD-NORTH
+FC1-7	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	282.1	0	0	90	-62	This study	SO-CMD-NORTH
+FC1-8	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	285.9	0	0	90	-47	This study	SO-CMD-NORTH
+FC1-9	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	303.8	0	0	90	-82	This study	SO-CMD-NORTH
+FC1-1	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	280.6	0	0	90	-60	This study	SO-CMD-NORTH
+FC1-2	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	286	0	0	90	-57	This study	SO-CMD-NORTH
+FC1-3	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	278.4	0	0	90	-66	This study	SO-CMD-NORTH
+FC1-4	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	278.3	0	0	90	-48	This study	SO-CMD-NORTH
+FC1-5	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	265.2	0	0	90	-53	This study	SO-CMD-NORTH
+FC1-6	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	271.2	0	0	90	-56	This study	SO-CMD-NORTH
+FC1-7	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	282.1	0	0	90	-62	This study	SO-CMD-NORTH
+FC1-8	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	285.9	0	0	90	-47	This study	SO-CMD-NORTH
+FC1-9	FC1	0	47.7826	268.6735	Intrusive	Pluton	Gabbro	Yiming Zhang	303.8	0	0	90	-82	This study	SO-CMD-NORTH
+HCT1-1	HCT1	0	47.6008	268.8505	Intrusive	Pluton	Gabbro	Yiming Zhang	277.8	0	0	90	-17	This study	SO-CMD-NORTH
+HCT1-2	HCT1	0	47.6008	268.8505	Intrusive	Pluton	Gabbro	Yiming Zhang	284.7	0	0	90	-16	This study	SO-CMD-NORTH
+HCT1-3	HCT1	0	47.6008	268.8505	Intrusive	Pluton	Gabbro	Yiming Zhang	297.2	0	0	90	-14	This study	SO-CMD-NORTH
+HCT1-4	HCT1	0	47.6008	268.8505	Intrusive	Pluton	Gabbro	Yiming Zhang	306.2	0	0	90	-14	This study	SO-CMD-NORTH
+HCT1-5	HCT1	0	47.6008	268.8505	Intrusive	Pluton	Gabbro	Yiming Zhang	275.4	0	0	90	-11	This study	SO-CMD-NORTH
+HCT1-6	HCT1	0	47.6008	268.8505	Intrusive	Pluton	Gabbro	Yiming Zhang	295.4	0	0	90	-11	This study	SO-CMD-NORTH
+HCT1-7	HCT1	0	47.6008	268.8505	Intrusive	Pluton	Gabbro	Yiming Zhang	312	0	0	90	-12	This study	SO-CMD-NORTH
+HCT1-8	HCT1	0	47.6008	268.8505	Intrusive	Pluton	Gabbro	Yiming Zhang	322	0	0	90	-15	This study	SO-CMD-NORTH
+FC4-1	FC4	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	6.1	0	0	90	-55	This study	SO-CMD-NORTH
+FC4-2	FC4	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	345.1	0	0	90	-101	This study	SO-CMD-NORTH
+FC4-3	FC4	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	6.1	0	0	90	-54	This study	SO-CMD-NORTH
+FC4-4	FC4	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	296.1	0	0	90	-94	This study	SO-CMD-NORTH
+FC4-5	FC4	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	289.1	0	0	90	-86	This study	SO-CMD-NORTH
+FC4-6	FC4	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	291.1	0	0	90	-89	This study	SO-CMD-NORTH
+FC4-7	FC4	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	308.2	0	0	90	-98	This study	SO-CMD-NORTH
+FC4-8	FC4	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	326.1	0	0	90	-106	This study	SO-CMD-NORTH
+FC4-9	FC4	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	355.1	0	0	90	-77	This study	SO-CMD-NORTH
+HCT1-1	HCT1	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	277.8	0	0	90	-17	This study	SO-CMD-NORTH
+HCT1-2	HCT1	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	284.7	0	0	90	-16	This study	SO-CMD-NORTH
+HCT1-3	HCT1	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	297.2	0	0	90	-14	This study	SO-CMD-NORTH
+HCT1-4	HCT1	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	306.2	0	0	90	-14	This study	SO-CMD-NORTH
+HCT1-5	HCT1	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	275.4	0	0	90	-11	This study	SO-CMD-NORTH
+HCT1-6	HCT1	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	295.4	0	0	90	-11	This study	SO-CMD-NORTH
+HCT1-7	HCT1	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	312	0	0	90	-12	This study	SO-CMD-NORTH
+HCT1-8	HCT1	0	47.7625	268.6173	Intrusive	Pluton	Gabbro	Yiming Zhang	322	0	0	90	-15	This study	SO-CMD-NORTH
