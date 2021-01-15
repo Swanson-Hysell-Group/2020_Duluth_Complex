@@ -1,207 +1,207 @@
 tab	specimens
 specimen	experiments	sample	dir_alpha95	dir_comp	dir_dec	dir_inc	dir_n_comps	dir_n_measurements	dir_tilt_correction	dir_dang	dir_mad_free	geologic_classes	geologic_types	lithologies	meas_step_max	meas_step_min	meas_step_unit	analysts	instrument_codes	software_packages	int_corr	citations	method_codes	result_quality	volume	weight
-FC1-1a		FC1-1																				This study	LP-NOMAG			
-FC1-1a	FC1-1a_LP-DIR-AF	FC1-1		lc	181.4	-19.1	2	4	-1	87.3	3.3				0.003	0	T		hargrave 2019-10-31 12:33:51	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-1a	FC1-1a_LP-DIR-AF	FC1-1		mc	134.5	67.2	2	21	-1	13.7	5.8				0.11	0.038	T		hargrave 2019-10-31 12:33:51	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-1a	FC1-1a_LP-DIR-AF	FC1-1		lc	102.3	40.9	2	4	0	87.3	3.3				0.003	0	T		hargrave 2019-10-31 12:33:51	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-1a	FC1-1a_LP-DIR-AF	FC1-1		mc	303.2	44.1	2	21	0	13.7	5.8				0.11	0.038	T		hargrave 2019-10-31 12:33:51	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-1b	FC1-1b_LP-DIR-T	FC1-1		lt	205.6	62.6	2	6	0	53.2	21.6				573	273	K		hargrave 2020-03-14 14:06:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-1b	FC1-1b_LP-DIR-T	FC1-1		mt	282.4	33.4	2	12	0	0.5	1.1				873	813	K		hargrave 2020-03-14 14:06:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-1b	FC1-1b_LP-DIR-T	FC1-1		mt	156.3	86.3	2	12	-1	0.5	1.1				873	813	K		hargrave 2020-03-14 14:06:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-1b	FC1-1b_LP-DIR-T	FC1-1		lt	212.0	33.2	2	6	-1	53.2	21.6				573	273	K		hargrave 2020-03-14 14:06:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-1b		FC1-1																Yiming Zhang				This study	LP-NOMAG			
-FC1-2a		FC1-2																				This study	LP-NOMAG			
-FC1-2a	FC1-2a_LP-DIR-AF	FC1-2		lc	171.5	-10.3	2	4	-1	94.6	2.8				0.003	0	T		hargrave 2019-10-31 13:39:15	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-2a	FC1-2a_LP-DIR-AF	FC1-2		mc	115.2	69.7	2	17	-1	1.7	8.1				0.12	0.05	T		hargrave 2019-10-31 13:39:15	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-2a	FC1-2a_LP-DIR-AF	FC1-2		lc	93.9	45.9	2	4	0	94.6	2.8				0.003	0	T		hargrave 2019-10-31 13:39:15	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-2a	FC1-2a_LP-DIR-AF	FC1-2		mc	309.9	39.4	2	17	0	1.7	8.1				0.12	0.05	T		hargrave 2019-10-31 13:39:15	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-2b	FC1-2b_LP-DIR-T	FC1-2		lt	112.3	58.6	2	6	0	72.5	7.4				573	273	K		hargrave 2020-03-14 14:08:00	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-2b	FC1-2b_LP-DIR-T	FC1-2		lt	183.3	1.7	2	6	-1	72.5	7.4				573	273	K		hargrave 2020-03-14 14:08:00	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-2b	FC1-2b_LP-DIR-T	FC1-2		mt	270.3	80.5	2	5	-1	3.1	3.6				851	839	K		hargrave 2020-03-14 14:08:00	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-2b		FC1-2																Yiming Zhang				This study	LP-NOMAG			
-FC1-2b	FC1-2b_LP-DIR-T	FC1-2		mt	274.7	32.4	2	5	0	3.1	3.6				851	839	K		hargrave 2020-03-14 14:08:00	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-3a	FC1-3a_LP-DIR-AF	FC1-3		lc	179.0	-16.6	2	4	-1	70	3.4				0.003	0	T		hargrave 2019-10-31 02:38:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-3a	FC1-3a_LP-DIR-AF	FC1-3		mc	135.3	65.4	2	18	-1	3	2.2				0.044	0.01	T		hargrave 2019-10-31 02:38:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-3a	FC1-3a_LP-DIR-AF	FC1-3		lc	96.9	49.4	2	4	0	70	3.4				0.003	0	T		hargrave 2019-10-31 02:38:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-3a	FC1-3a_LP-DIR-AF	FC1-3		mc	300.8	39.8	2	18	0	3	2.2				0.044	0.01	T		hargrave 2019-10-31 02:38:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-3a		FC1-3																				This study	LP-NOMAG			
-FC1-3b	FC1-3b_LP-DIR-T	FC1-3		lt	156.9	8.7	2	11	-1	47.5	5.1				773	373	K		hargrave 2020-03-14 14:09:30	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-3b	FC1-3b_LP-DIR-T	FC1-3		mt	128.8	73.2	2	10	-1	0.8	1.9				873	833	K		hargrave 2020-03-14 14:09:30	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-3b	FC1-3b_LP-DIR-T	FC1-3		lt	39.3	63.2	2	11	0	47.5	5.1				773	373	K		hargrave 2020-03-14 14:09:30	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-3b	FC1-3b_LP-DIR-T	FC1-3		mt	294.1	33.7	2	10	0	0.8	1.9				873	833	K		hargrave 2020-03-14 14:09:30	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-3b		FC1-3																Yiming Zhang				This study	LP-NOMAG			
-FC1-4a	FC1-4a_LP-DIR-AF	FC1-4		mc	77.4	75.3	2	16	-1	18	5.4				0.12	0.054	T		hargrave 2019-10-31 03:46:46	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-4a	FC1-4a_LP-DIR-AF	FC1-4		lc	179.1	-1.6	2	4	-1	93.8	2.4				0.003	0	T		hargrave 2019-10-31 03:46:46	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-4a	FC1-4a_LP-DIR-AF	FC1-4		mc	296.4	37.3	2	16	0	18	5.4				0.12	0.054	T		hargrave 2019-10-31 03:46:46	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-4a	FC1-4a_LP-DIR-AF	FC1-4		lc	97.0	46.4	2	4	0	93.8	2.4				0.003	0	T		hargrave 2019-10-31 03:46:46	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-4a		FC1-4																				This study	LP-NOMAG			
-FC1-4b	FC1-4b_LP-DIR-T	FC1-4		mt	293.5	28	2	5	0	13.6	2				841	823	K		hargrave 2020-03-14 14:10:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-4b	FC1-4b_LP-DIR-T	FC1-4		lt	336.0	44	2	12	0	30.5	18				773	273	K		hargrave 2020-03-14 14:10:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-4b	FC1-4b_LP-DIR-T	FC1-4		lt	113.1	48.7	2	12	-1	30.5	18				773	273	K		hargrave 2020-03-14 14:10:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-4b	FC1-4b_LP-DIR-T	FC1-4		mt	46.4	71.4	2	5	-1	13.6	2				841	823	K		hargrave 2020-03-14 14:10:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-4b		FC1-4																Yiming Zhang				This study	LP-NOMAG			
-FC1-5a	FC1-5a_LP-DIR-AF	FC1-5		mc	305.2	31.9	2	15	0	13.8	4.1				0.1	0.046	T		hargrave 2019-10-31 04:52:02	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-5a	FC1-5a_LP-DIR-AF	FC1-5		lc	186.5	-6.5	2	4	-1	95.2	6.1				0.003	0	T		hargrave 2019-10-31 04:52:02	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-5a	FC1-5a_LP-DIR-AF	FC1-5		mc	93.2	56.8	2	15	-1	13.8	4.1				0.1	0.046	T		hargrave 2019-10-31 04:52:02	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-5a		FC1-5																				This study	LP-NOMAG			
-FC1-5a	FC1-5a_LP-DIR-AF	FC1-5		lc	94.5	46.1	2	4	0	95.2	6.1				0.003	0	T		hargrave 2019-10-31 04:52:02	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-5b		FC1-5																Yiming Zhang				This study	LP-NOMAG			
-FC1-5b	FC1-5b_LP-DIR-T	FC1-5		mt	71.7	69.9	2	6	-1	0.2	1.9				873	844	K		hargrave 2020-03-14 14:12:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-5b	FC1-5b_LP-DIR-T	FC1-5		lt	170.2	48.8	2	12	-1	19.2	16.2				773	273	K		hargrave 2020-03-14 14:12:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-5b	FC1-5b_LP-DIR-T	FC1-5		mt	287.0	28.6	2	6	0	0.2	1.9				873	844	K		hargrave 2020-03-14 14:12:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-5b	FC1-5b_LP-DIR-T	FC1-5		lt	293.4	76.2	2	12	0	19.2	16.2				773	273	K		hargrave 2020-03-14 14:12:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-6a	FC1-6a_LP-DIR-AF	FC1-6		mc	317.8	54.8	2	9	0	10.5	1.7				0.024	0.009	T		hargrave 2019-10-31 05:58:48	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-6a	FC1-6a_LP-DIR-AF	FC1-6		lc	61.4	43.5	2	4	0	58.9	3				0.003	0	T		hargrave 2019-10-31 05:58:48	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-6a	FC1-6a_LP-DIR-AF	FC1-6		mc	137.4	51.8	2	9	-1	10.5	1.7				0.024	0.009	T		hargrave 2019-10-31 05:58:48	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-6a		FC1-6																				This study	LP-NOMAG			
-FC1-6a	FC1-6a_LP-DIR-AF	FC1-6		lc	158.6	-7.9	2	4	-1	58.9	3				0.003	0	T		hargrave 2019-10-31 05:58:48	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-6b	FC1-6b_LP-DIR-T	FC1-6		mt	113.1	61.5	2	10	-1	1.2	2.8				873	833	K		hargrave 2020-03-14 14:13:44	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-6b	FC1-6b_LP-DIR-T	FC1-6		lt	172.7	24.9	2	6	-1	46.1	14				573	273	K		hargrave 2020-03-14 14:13:44	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-6b	FC1-6b_LP-DIR-T	FC1-6		mt	306.3	40.3	2	10	0	1.2	2.8				873	833	K		hargrave 2020-03-14 14:13:44	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-6b	FC1-6b_LP-DIR-T	FC1-6		lt	54.6	78.9	2	6	0	46.1	14				573	273	K		hargrave 2020-03-14 14:13:44	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-6b		FC1-6																Yiming Zhang				This study	LP-NOMAG			
-FC1-7a		FC1-7																				This study	LP-NOMAG			
-FC1-7a	FC1-7a_LP-DIR-AF	FC1-7		lc	81.9	48.3	2	4	0	92.9	3.2				0.003	0	T		hargrave 2019-10-31 07:07:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-7a	FC1-7a_LP-DIR-AF	FC1-7		mc	301.9	14.8	2	29	0	26.2	1.5				0.082	0.01	T		hargrave 2019-10-31 07:07:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-7a	FC1-7a_LP-DIR-AF	FC1-7		mc	58.4	67.5	2	29	-1	26.2	1.5				0.082	0.01	T		hargrave 2019-10-31 07:07:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-7a	FC1-7a_LP-DIR-AF	FC1-7		lc	166.4	-11.5	2	4	-1	92.9	3.2				0.003	0	T		hargrave 2019-10-31 07:07:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-7b		FC1-7																Yiming Zhang				This study	LP-NOMAG			
-FC1-7b	FC1-7b_LP-DIR-T	FC1-7		mt	294.6	37	2	11	0	0.9	2				873	823	K		hargrave 2020-03-14 14:15:08	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-7b	FC1-7b_LP-DIR-T	FC1-7		mt	133.8	76.2	2	11	-1	0.9	2				873	823	K		hargrave 2020-03-14 14:15:08	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-7b	FC1-7b_LP-DIR-T	FC1-7		lt	157.5	22.1	2	6	-1	46.5	12.1				573	273	K		hargrave 2020-03-14 14:15:08	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-7b	FC1-7b_LP-DIR-T	FC1-7		lt	23.1	68.8	2	6	0	46.5	12.1				573	273	K		hargrave 2020-03-14 14:15:08	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-8a	FC1-8a_LP-DIR-AF	FC1-8		lc	175.8	18	2	4	-1	55	1.9				0.003	0	T		hargrave 2019-10-31 08:15:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-8a	FC1-8a_LP-DIR-AF	FC1-8		mc	274.5	48	2	9	0	4.5	3.1				0.03	0.014	T		hargrave 2019-10-31 08:15:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-8a	FC1-8a_LP-DIR-AF	FC1-8		mc	233.8	80.6	2	9	-1	4.5	3.1				0.03	0.014	T		hargrave 2019-10-31 08:15:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-8a	FC1-8a_LP-DIR-AF	FC1-8		lc	96.6	64.7	2	4	0	55	1.9				0.003	0	T		hargrave 2019-10-31 08:15:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-8a		FC1-8																				This study	LP-NOMAG			
-FC1-8b		FC1-8																Yiming Zhang				This study	LP-NOMAG			
-FC1-8b	FC1-8b_LP-DIR-T	FC1-8		mt	147.1	83.2	2	11	-1	1.2	1.8				873	823	K		hargrave 2020-03-14 14:16:34	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-8b	FC1-8b_LP-DIR-T	FC1-8		lt	181.7	51.5	2	4	-1	25.1	12.8				473	273	K		hargrave 2020-03-14 14:16:34	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-8b	FC1-8b_LP-DIR-T	FC1-8		mt	291.5	48.6	2	11	0	1.2	1.8				873	823	K		hargrave 2020-03-14 14:16:34	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-8b	FC1-8b_LP-DIR-T	FC1-8		lt	278.9	81.4	2	4	0	25.1	12.8				473	273	K		hargrave 2020-03-14 14:16:34	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-9a	FC1-9a_LP-DIR-AF	FC1-9		lc	160.7	-26.4	2	4	-1	75.9	3.8				0.003	0	T		hargrave 2019-10-31 14:47:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-9a	FC1-9a_LP-DIR-AF	FC1-9		mc	179.1	48.1	2	18	-1	14.1	2.9				0.1	0.04	T		hargrave 2019-10-31 14:47:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC1-9a		FC1-9																				This study	LP-NOMAG			
-FC1-9a	FC1-9a_LP-DIR-AF	FC1-9		mc	304.7	49.9	2	18	0	14.1	2.9				0.1	0.04	T		hargrave 2019-10-31 14:47:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-9a	FC1-9a_LP-DIR-AF	FC1-9		lc	95.9	50.8	2	4	0	75.9	3.8				0.003	0	T		hargrave 2019-10-31 14:47:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC1-9b	FC1-9b_LP-DIR-T	FC1-9		mt	222.5	65.5	2	10	-1	0.7	1.9				873	833	K		hargrave 2020-03-14 14:18:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-9b	FC1-9b_LP-DIR-T	FC1-9		mt	285.7	25.4	2	10	0	0.7	1.9				873	833	K		hargrave 2020-03-14 14:18:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-9b	FC1-9b_LP-DIR-T	FC1-9		lt	79.7	56.9	2	8	0	82.6	9.4				673	273	K		hargrave 2020-03-14 14:18:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-FC1-9b	FC1-9b_LP-DIR-T	FC1-9		lt	156.7	-15.8	2	8	-1	82.6	9.4				673	273	K		hargrave 2020-03-14 14:18:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-FC1-9b		FC1-9																Yiming Zhang				This study	LP-NOMAG			
-FC4-1a	FC4-1a_LP-DIR-AF	FC4-1		mc	261.6	39.8	2	7	-1	4.7	1.9				0.13	0.1	T		hargrave 2019-10-31 16:27:26	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-1a	FC4-1a_LP-DIR-AF	FC4-1		lc	311.8	18.3	2	11	-1	15	1.9				0.01	0	T		hargrave 2019-10-31 16:27:26	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-1a	FC4-1a_LP-DIR-AF	FC4-1		mc	307.3	27.3	2	7	0	4.7	1.9				0.13	0.1	T		hargrave 2019-10-31 16:27:26	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-1a	FC4-1a_LP-DIR-AF	FC4-1		lc	317.3	-19.8	2	11	0	15	1.9				0.01	0	T		hargrave 2019-10-31 16:27:26	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-1a		FC4-1																				This study	LP-NOMAG			
-FC4-2a	FC4-2a_LP-DIR-AF	FC4-2		lc	302.9	54.5	2	11	-1	13	2.2				0.01	0	T		hargrave 2019-10-31 17:38:13	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-2a	FC4-2a_LP-DIR-AF	FC4-2		mc	227.0	23.8	2	7	-1	15.6	2.6				0.13	0.1	T		hargrave 2019-10-31 17:38:13	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-2a	FC4-2a_LP-DIR-AF	FC4-2		lc	311.7	-27.7	2	11	0	13	2.2				0.01	0	T		hargrave 2019-10-31 17:38:13	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-2a		FC4-2																				This study	LP-NOMAG			
-FC4-2a	FC4-2a_LP-DIR-AF	FC4-2		mc	292.6	32.4	2	7	0	15.6	2.6				0.13	0.1	T		hargrave 2019-10-31 17:38:13	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-3a	FC4-3a_LP-DIR-AF	FC4-3		lc	325.9	7.3	2	11	-1	22.4	0.9				0.01	0	T		hargrave 2019-10-31 18:49:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-3a	FC4-3a_LP-DIR-AF	FC4-3		mc	255.8	12.8	2	14	-1	10.5	2.4				0.13	0.07	T		hargrave 2019-10-31 18:49:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-3a	FC4-3a_LP-DIR-AF	FC4-3		mc	278.5	18.9	2	14	0	10.5	2.4				0.13	0.07	T		hargrave 2019-10-31 18:49:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-3a	FC4-3a_LP-DIR-AF	FC4-3		lc	322.5	-36.1	2	11	0	22.4	0.9				0.01	0	T		hargrave 2019-10-31 18:49:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-3a		FC4-3																				This study	LP-NOMAG			
-FC4-4a		FC4-4																				This study	LP-NOMAG			
-FC4-5a		FC4-5																				This study	LP-NOMAG			
-FC4-5a	FC4-5a_LP-DIR-AF	FC4-5		llc	242.0	-53.8	1	4	-1	2.4	3.9				0.016	0.01	T		hargrave 2019-11-04 19:16:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-5a	FC4-5a_LP-DIR-AF	FC4-5		llc	141.4	12.7	1	4	0	2.4	3.9				0.016	0.01	T		hargrave 2019-11-04 19:16:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		llc	55.0	6.5	3	4	0	37.5	1.6				0.003	0	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		lc	104.7	7.3	3	7	0	13.1	1.5				0.02	0.005	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		mc	294.2	29.7	3	9	0	10	1.9				0.1	0.05	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		llc	98.5	-33.5	3	4	-1	37.5	1.6				0.003	0	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		mc	174.4	61.1	3	9	-1	10	1.9				0.1	0.05	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-6a		FC4-6																				This study	LP-NOMAG			
-FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		lc	142.5	-79.6	3	7	-1	13.1	1.5				0.02	0.005	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-7a		FC4-7																				This study	LP-NOMAG			
-FC4-7a	FC4-7a_LP-DIR-AF	FC4-7		lc	18.4	-51.9	2	5	-1	119.3	3.1				0.012	0.007	T		hargrave 2019-11-04 20:33:24	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-7a	FC4-7a_LP-DIR-AF	FC4-7		mc	300.6	35.7	2	12	0	8.1	2.9				0.13	0.078	T		hargrave 2019-11-04 20:33:24	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-7a	FC4-7a_LP-DIR-AF	FC4-7		lc	115.5	-28	2	5	0	119.3	3.1				0.012	0.007	T		hargrave 2019-11-04 20:33:24	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-7a	FC4-7a_LP-DIR-AF	FC4-7		mc	188.9	45.8	2	12	-1	8.1	2.9				0.13	0.078	T		hargrave 2019-11-04 20:33:24	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-8a	FC4-8a_LP-DIR-AF	FC4-8		mc	213.1	46.5	2	7	-1	7.3	2.9				0.13	0.1	T		hargrave 2019-11-04 21:40:03	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-8a	FC4-8a_LP-DIR-AF	FC4-8		lc	326.7	-31.8	2	11	0	14.8	2.7				0.02	0.005	T		hargrave 2019-11-04 21:40:03	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-8a	FC4-8a_LP-DIR-AF	FC4-8		mc	302.4	20.7	2	7	0	7.3	2.9				0.13	0.1	T		hargrave 2019-11-04 21:40:03	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-8a	FC4-8a_LP-DIR-AF	FC4-8		lc	1.9	74.2	2	11	-1	14.8	2.7				0.02	0.005	T		hargrave 2019-11-04 21:40:03	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-FC4-8a		FC4-8																				This study	LP-NOMAG			
-FC4-9a		FC4-9																				This study	LP-NOMAG			
-FC4-9a	FC4-9a_LP-DIR-AF	FC4-9		mc	297.1	21	1	19	0	7.3	1.6				0.082	0.03	T		hargrave 2019-11-04 22:49:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-FC4-9a	FC4-9a_LP-DIR-AF	FC4-9		mc	253.3	34.3	1	19	-1	7.3	1.6				0.082	0.03	T		hargrave 2019-11-04 22:49:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-1a		HCT1-1																				This study	LP-NOMAG			
-HCT1-1a	HCT1-1a_LP-DIR-AF	HCT1-1		mc	272.4	33.8	1	17	0	5.8	1.3				0.074	0.03	T		hargrave 2019-10-30 15:13:07	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-1a	HCT1-1a_LP-DIR-AF	HCT1-1		mc	352.9	50.7	1	17	-1	5.8	1.3				0.074	0.03	T		hargrave 2019-10-30 15:13:07	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-1b	HCT1-1b_LP-DIR-T	HCT1-1		mt	13.8	63.6	2	10	-1	1.6	2.9				873	833	K		hargrave 2020-03-14 14:19:37	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-1b	HCT1-1b_LP-DIR-T	HCT1-1		lt	168.4	61.9	2	8	0	51.9	13.7				673	273	K		hargrave 2020-03-14 14:19:37	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-1b	HCT1-1b_LP-DIR-T	HCT1-1		lt	227.5	52.9	2	8	-1	51.9	13.7				673	273	K		hargrave 2020-03-14 14:19:37	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-1b	HCT1-1b_LP-DIR-T	HCT1-1		mt	286.8	46.9	2	10	0	1.6	2.9				873	833	K		hargrave 2020-03-14 14:19:37	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-1b		HCT1-1																Yiming Zhang				This study	LP-NOMAG			
-HCT1-2a	HCT1-2a_LP-DIR-AF	HCT1-2		lc	153.9	16.7	2	5	0	99.9	1.9				0.004	0	T		hargrave 2019-10-30 16:29:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-2a	HCT1-2a_LP-DIR-AF	HCT1-2		mc	297.3	30.8	2	21	0	2.9	1.3				0.09	0.03	T		hargrave 2019-10-30 16:29:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-2a	HCT1-2a_LP-DIR-AF	HCT1-2		lc	226.8	6	2	5	-1	99.9	1.9				0.004	0	T		hargrave 2019-10-30 16:29:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-2a	HCT1-2a_LP-DIR-AF	HCT1-2		mc	15.7	46.3	2	21	-1	2.9	1.3				0.09	0.03	T		hargrave 2019-10-30 16:29:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-2a		HCT1-2																				This study	LP-NOMAG			
-HCT1-2b	HCT1-2b_LP-DIR-T	HCT1-2		mt	2.8	54.3	2	11	-1	2.3	2.8				873	823	K		hargrave 2020-03-14 14:23:18	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-2b	HCT1-2b_LP-DIR-T	HCT1-2		mt	286.8	38.4	2	11	0	2.3	2.8				873	823	K		hargrave 2020-03-14 14:23:18	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-2b		HCT1-2																Yiming Zhang				This study	LP-NOMAG			
-HCT1-2b	HCT1-2b_LP-DIR-T	HCT1-2		lt	156.3	28.2	2	12	0	93	8.2				773	273	K		hargrave 2020-03-14 14:23:18	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-2b	HCT1-2b_LP-DIR-T	HCT1-2		lt	226.4	17.6	2	12	-1	93	8.2				773	273	K		hargrave 2020-03-14 14:23:18	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-3a	HCT1-3a_LP-DIR-AF	HCT1-3		mc	3.9	61.2	2	6	-1	7.5	0.9				0.02	0.01	T		hargrave 2019-10-30 17:38:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-3a	HCT1-3a_LP-DIR-AF	HCT1-3		lc	202.0	1.8	2	5	-1	109	1.6				0.004	0	T		hargrave 2019-10-30 17:38:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-3a	HCT1-3a_LP-DIR-AF	HCT1-3		lc	140.0	14.7	2	5	0	109	1.6				0.004	0	T		hargrave 2019-10-30 17:38:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-3a	HCT1-3a_LP-DIR-AF	HCT1-3		mc	300.0	47.2	2	6	0	7.5	0.9				0.02	0.01	T		hargrave 2019-10-30 17:38:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-3a		HCT1-3																				This study	LP-NOMAG			
-HCT1-3b	HCT1-3b_LP-DIR-T	HCT1-3		mt	284.5	42.7	2	12	0	1.1	1.1				873	813	K		hargrave 2020-03-14 14:24:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-3b	HCT1-3b_LP-DIR-T	HCT1-3		lt	201.2	6.9	2	12	-1	103.5	5.8				773	273	K		hargrave 2020-03-14 14:24:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-3b	HCT1-3b_LP-DIR-T	HCT1-3		mt	343.1	56.2	2	12	-1	1.1	1.1				873	813	K		hargrave 2020-03-14 14:24:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-3b		HCT1-3																Yiming Zhang				This study	LP-NOMAG			
-HCT1-3b	HCT1-3b_LP-DIR-T	HCT1-3		lt	139.6	19.9	2	12	0	103.5	5.8				773	273	K		hargrave 2020-03-14 14:24:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-4a		HCT1-4																				This study	LP-NOMAG			
-HCT1-4a	HCT1-4a_LP-DIR-AF	HCT1-4		mc	224.3	49.3	1	16	0	2.7	1.4				0.07	0.03	T		hargrave 2019-10-30 18:46:33	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	b		
-HCT1-4a	HCT1-4a_LP-DIR-AF	HCT1-4		mc	261.7	49.3	1	16	-1	2.7	1.4				0.07	0.03	T		hargrave 2019-10-30 18:46:33	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	b		
-HCT1-4b	HCT1-4b_LP-DIR-T	HCT1-4		lt	119.6	3.2	2	12	-1	108.2	7.4				773	273	K		hargrave 2020-03-14 14:26:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-4b	HCT1-4b_LP-DIR-T	HCT1-4		mt	224.0	54	2	11	0	2.4	1.7				873	823	K		hargrave 2020-03-14 14:26:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	b		
-HCT1-4b	HCT1-4b_LP-DIR-T	HCT1-4		lt	64.4	10	2	12	0	108.2	7.4				773	273	K		hargrave 2020-03-14 14:26:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-4b		HCT1-4																Yiming Zhang				This study	LP-NOMAG			
-HCT1-4b	HCT1-4b_LP-DIR-T	HCT1-4		mt	258.5	53.5	2	11	-1	2.4	1.7				873	823	K		hargrave 2020-03-14 14:26:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	b		
-HCT1-5a	HCT1-5a_LP-DIR-AF	HCT1-5		lc	228.7	46	2	4	-1	71.6	3.9				0.005	0.002	T		hargrave 2019-10-30 19:55:31	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-5a	HCT1-5a_LP-DIR-AF	HCT1-5		lc	154.5	52.5	2	4	0	71.6	3.9				0.005	0.002	T		hargrave 2019-10-30 19:55:31	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-5a	HCT1-5a_LP-DIR-AF	HCT1-5		mc	276.4	26.7	2	16	0	2.9	1.2				0.07	0.03	T		hargrave 2019-10-30 19:55:31	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-5a	HCT1-5a_LP-DIR-AF	HCT1-5		mc	1.1	37.7	2	16	-1	2.9	1.2				0.07	0.03	T		hargrave 2019-10-30 19:55:31	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-5a		HCT1-5																				This study	LP-NOMAG			
-HCT1-5b	HCT1-5b_LP-DIR-T	HCT1-5		mt	14.2	51.4	2	11	-1	2.3	1.5				873	823	K		hargrave 2020-03-14 14:27:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-5b		HCT1-5																Yiming Zhang				This study	LP-NOMAG			
-HCT1-5b	HCT1-5b_LP-DIR-T	HCT1-5		lt	70.4	52	2	13	-1	30.1	11.6				793	273	K		hargrave 2020-03-14 14:27:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-5b	HCT1-5b_LP-DIR-T	HCT1-5		lt	334.1	47.3	2	13	0	30.1	11.6				793	273	K		hargrave 2020-03-14 14:27:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-5b	HCT1-5b_LP-DIR-T	HCT1-5		mt	287.0	40.6	2	11	0	2.3	1.5				873	823	K		hargrave 2020-03-14 14:27:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-6a		HCT1-6																				This study	LP-NOMAG			
-HCT1-6a	HCT1-6a_LP-DIR-AF	HCT1-6		lc	203.8	80.5	2	3	0	32.4	3.5				0.002	0	T		hargrave 2019-10-30 21:04:42	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-6a	HCT1-6a_LP-DIR-AF	HCT1-6		mc	288.4	32.8	2	15	0	2.7	1.6				0.11	0.05	T		hargrave 2019-10-30 21:04:42	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-6a	HCT1-6a_LP-DIR-AF	HCT1-6		lc	220.7	75.3	2	3	-1	32.4	3.5				0.002	0	T		hargrave 2019-10-30 21:04:42	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-6a	HCT1-6a_LP-DIR-AF	HCT1-6		mc	351.9	43.7	2	15	-1	2.7	1.6				0.11	0.05	T		hargrave 2019-10-30 21:04:42	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-6b	HCT1-6b_LP-DIR-T	HCT1-6		mt	351.0	57.2	2	11	-1	3.2	2				873	823	K		hargrave 2020-03-14 14:29:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-6b	HCT1-6b_LP-DIR-T	HCT1-6		lt	260.3	67.2	2	12	-1	33.1	6.7				773	273	K		hargrave 2020-03-14 14:29:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-6b	HCT1-6b_LP-DIR-T	HCT1-6		lt	221.7	66.6	2	12	0	33.1	6.7				773	273	K		hargrave 2020-03-14 14:29:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-6b		HCT1-6																Yiming Zhang				This study	LP-NOMAG			
-HCT1-6b	HCT1-6b_LP-DIR-T	HCT1-6		mt	288.4	46.3	2	11	0	3.2	2				873	823	K		hargrave 2020-03-14 14:29:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-7a	HCT1-7a_LP-DIR-AF	HCT1-7		mc	282.4	35.4	2	17	0	3.9	1.2				0.12	0.05	T		hargrave 2019-10-30 22:09:23	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-7a	HCT1-7a_LP-DIR-AF	HCT1-7		lc	282.0	1.4	2	6	-1	21.3	1.3				0.008	0.003	T		hargrave 2019-10-30 22:09:23	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-7a	HCT1-7a_LP-DIR-AF	HCT1-7		lc	234.1	-1.1	2	6	0	21.3	1.3				0.008	0.003	T		hargrave 2019-10-30 22:09:23	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-7a	HCT1-7a_LP-DIR-AF	HCT1-7		mc	325.0	45.5	2	17	-1	3.9	1.2				0.12	0.05	T		hargrave 2019-10-30 22:09:23	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-7a		HCT1-7																				This study	LP-NOMAG			
-HCT1-7b	HCT1-7b_LP-DIR-T	HCT1-7		lt	220.6	-1.6	2	13	0	18.6	7.8				773	273	K		hargrave 2020-03-14 14:31:45	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-7b	HCT1-7b_LP-DIR-T	HCT1-7		mt	285.5	2.7	2	8	-1	2.3	1				873	839	K		hargrave 2020-03-14 14:31:45	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	b		
-HCT1-7b	HCT1-7b_LP-DIR-T	HCT1-7		lt	269.0	-1.8	2	13	-1	18.6	7.8				773	273	K		hargrave 2020-03-14 14:31:45	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-7b	HCT1-7b_LP-DIR-T	HCT1-7		mt	237.8	-0.5	2	8	0	2.3	1				873	839	K		hargrave 2020-03-14 14:31:45	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	b		
-HCT1-7b		HCT1-7																Yiming Zhang				This study	LP-NOMAG			
-HCT1-8a	HCT1-8a_LP-DIR-AF	HCT1-8		lc	182.1	55.3	2	3	0	42.8	4				0.003	0.001	T		hargrave 2019-10-30 23:14:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-8a	HCT1-8a_LP-DIR-AF	HCT1-8		mc	296.6	39.5	2	13	0	0.9	2.1				0.09	0.046	T		hargrave 2019-10-30 23:14:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
-HCT1-8a	HCT1-8a_LP-DIR-AF	HCT1-8		lc	210.0	43	2	3	-1	42.8	4				0.003	0.001	T		hargrave 2019-10-30 23:14:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-8a		HCT1-8																				This study	LP-NOMAG			
-HCT1-8a	HCT1-8a_LP-DIR-AF	HCT1-8		mc	326.9	52.7	2	13	-1	0.9	2.1				0.09	0.046	T		hargrave 2019-10-30 23:14:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
-HCT1-8b		HCT1-8																Yiming Zhang				This study	LP-NOMAG			
-HCT1-8b	HCT1-8b_LP-DIR-T	HCT1-8		lt	219.8	70.5	2	11	0	23.1	5.7				748	273	K		hargrave 2020-03-14 14:33:17	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
-HCT1-8b	HCT1-8b_LP-DIR-T	HCT1-8		lt	226.3	63.2	2	11	-1	23.1	5.7				748	273	K		hargrave 2020-03-14 14:33:17	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-8b	HCT1-8b_LP-DIR-T	HCT1-8		mt	295.3	65.7	2	12	-1	1.6	1				873	813	K		hargrave 2020-03-14 14:33:17	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
-HCT1-8b	HCT1-8b_LP-DIR-T	HCT1-8		mt	279.5	56.6	2	12	0	1.6	1				873	813	K		hargrave 2020-03-14 14:33:17	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-1a		FC1-1										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC1-1a	FC1-1a_LP-DIR-AF	FC1-1		lc	181.4	-19.1	2	4	-1	87.3	3.3	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 12:33:51	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-1a	FC1-1a_LP-DIR-AF	FC1-1		mc	134.5	67.2	2	21	-1	13.7	5.8	Intrusive	Pluton	Gabbro	0.11	0.038	T		hargrave 2019-10-31 12:33:51	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-1a	FC1-1a_LP-DIR-AF	FC1-1		lc	102.3	40.9	2	4	0	87.3	3.3	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 12:33:51	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-1a	FC1-1a_LP-DIR-AF	FC1-1		mc	303.2	44.1	2	21	0	13.7	5.8	Intrusive	Pluton	Gabbro	0.11	0.038	T		hargrave 2019-10-31 12:33:51	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-1b	FC1-1b_LP-DIR-T	FC1-1		lt	205.6	62.6	2	6	0	53.2	21.6	Intrusive	Pluton	Gabbro	573	273	K		hargrave 2020-03-14 14:06:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-1b	FC1-1b_LP-DIR-T	FC1-1		mt	282.4	33.4	2	12	0	0.5	1.1	Intrusive	Pluton	Gabbro	873	813	K		hargrave 2020-03-14 14:06:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-1b	FC1-1b_LP-DIR-T	FC1-1		mt	156.3	86.3	2	12	-1	0.5	1.1	Intrusive	Pluton	Gabbro	873	813	K		hargrave 2020-03-14 14:06:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-1b	FC1-1b_LP-DIR-T	FC1-1		lt	212.0	33.2	2	6	-1	53.2	21.6	Intrusive	Pluton	Gabbro	573	273	K		hargrave 2020-03-14 14:06:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-1b		FC1-1										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+FC1-2a		FC1-2										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC1-2a	FC1-2a_LP-DIR-AF	FC1-2		lc	171.5	-10.3	2	4	-1	94.6	2.8	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 13:39:15	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-2a	FC1-2a_LP-DIR-AF	FC1-2		mc	115.2	69.7	2	17	-1	1.7	8.1	Intrusive	Pluton	Gabbro	0.12	0.05	T		hargrave 2019-10-31 13:39:15	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-2a	FC1-2a_LP-DIR-AF	FC1-2		lc	93.9	45.9	2	4	0	94.6	2.8	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 13:39:15	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-2a	FC1-2a_LP-DIR-AF	FC1-2		mc	309.9	39.4	2	17	0	1.7	8.1	Intrusive	Pluton	Gabbro	0.12	0.05	T		hargrave 2019-10-31 13:39:15	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-2b	FC1-2b_LP-DIR-T	FC1-2		lt	112.3	58.6	2	6	0	72.5	7.4	Intrusive	Pluton	Gabbro	573	273	K		hargrave 2020-03-14 14:08:00	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-2b	FC1-2b_LP-DIR-T	FC1-2		lt	183.3	1.7	2	6	-1	72.5	7.4	Intrusive	Pluton	Gabbro	573	273	K		hargrave 2020-03-14 14:08:00	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-2b	FC1-2b_LP-DIR-T	FC1-2		mt	270.3	80.5	2	5	-1	3.1	3.6	Intrusive	Pluton	Gabbro	851	839	K		hargrave 2020-03-14 14:08:00	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-2b		FC1-2										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+FC1-2b	FC1-2b_LP-DIR-T	FC1-2		mt	274.7	32.4	2	5	0	3.1	3.6	Intrusive	Pluton	Gabbro	851	839	K		hargrave 2020-03-14 14:08:00	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-3a	FC1-3a_LP-DIR-AF	FC1-3		lc	179.0	-16.6	2	4	-1	70	3.4	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 02:38:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-3a	FC1-3a_LP-DIR-AF	FC1-3		mc	135.3	65.4	2	18	-1	3	2.2	Intrusive	Pluton	Gabbro	0.044	0.01	T		hargrave 2019-10-31 02:38:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-3a	FC1-3a_LP-DIR-AF	FC1-3		lc	96.9	49.4	2	4	0	70	3.4	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 02:38:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-3a	FC1-3a_LP-DIR-AF	FC1-3		mc	300.8	39.8	2	18	0	3	2.2	Intrusive	Pluton	Gabbro	0.044	0.01	T		hargrave 2019-10-31 02:38:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-3a		FC1-3										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC1-3b	FC1-3b_LP-DIR-T	FC1-3		lt	156.9	8.7	2	11	-1	47.5	5.1	Intrusive	Pluton	Gabbro	773	373	K		hargrave 2020-03-14 14:09:30	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-3b	FC1-3b_LP-DIR-T	FC1-3		mt	128.8	73.2	2	10	-1	0.8	1.9	Intrusive	Pluton	Gabbro	873	833	K		hargrave 2020-03-14 14:09:30	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-3b	FC1-3b_LP-DIR-T	FC1-3		lt	39.3	63.2	2	11	0	47.5	5.1	Intrusive	Pluton	Gabbro	773	373	K		hargrave 2020-03-14 14:09:30	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-3b	FC1-3b_LP-DIR-T	FC1-3		mt	294.1	33.7	2	10	0	0.8	1.9	Intrusive	Pluton	Gabbro	873	833	K		hargrave 2020-03-14 14:09:30	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-3b		FC1-3										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+FC1-4a	FC1-4a_LP-DIR-AF	FC1-4		mc	77.4	75.3	2	16	-1	18	5.4	Intrusive	Pluton	Gabbro	0.12	0.054	T		hargrave 2019-10-31 03:46:46	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-4a	FC1-4a_LP-DIR-AF	FC1-4		lc	179.1	-1.6	2	4	-1	93.8	2.4	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 03:46:46	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-4a	FC1-4a_LP-DIR-AF	FC1-4		mc	296.4	37.3	2	16	0	18	5.4	Intrusive	Pluton	Gabbro	0.12	0.054	T		hargrave 2019-10-31 03:46:46	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-4a	FC1-4a_LP-DIR-AF	FC1-4		lc	97.0	46.4	2	4	0	93.8	2.4	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 03:46:46	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-4a		FC1-4										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC1-4b	FC1-4b_LP-DIR-T	FC1-4		mt	293.5	28	2	5	0	13.6	2	Intrusive	Pluton	Gabbro	841	823	K		hargrave 2020-03-14 14:10:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-4b	FC1-4b_LP-DIR-T	FC1-4		lt	336.0	44	2	12	0	30.5	18	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:10:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-4b	FC1-4b_LP-DIR-T	FC1-4		lt	113.1	48.7	2	12	-1	30.5	18	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:10:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-4b	FC1-4b_LP-DIR-T	FC1-4		mt	46.4	71.4	2	5	-1	13.6	2	Intrusive	Pluton	Gabbro	841	823	K		hargrave 2020-03-14 14:10:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-4b		FC1-4										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+FC1-5a	FC1-5a_LP-DIR-AF	FC1-5		mc	305.2	31.9	2	15	0	13.8	4.1	Intrusive	Pluton	Gabbro	0.1	0.046	T		hargrave 2019-10-31 04:52:02	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-5a	FC1-5a_LP-DIR-AF	FC1-5		lc	186.5	-6.5	2	4	-1	95.2	6.1	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 04:52:02	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-5a	FC1-5a_LP-DIR-AF	FC1-5		mc	93.2	56.8	2	15	-1	13.8	4.1	Intrusive	Pluton	Gabbro	0.1	0.046	T		hargrave 2019-10-31 04:52:02	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-5a		FC1-5										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC1-5a	FC1-5a_LP-DIR-AF	FC1-5		lc	94.5	46.1	2	4	0	95.2	6.1	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 04:52:02	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-5b		FC1-5										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+FC1-5b	FC1-5b_LP-DIR-T	FC1-5		mt	71.7	69.9	2	6	-1	0.2	1.9	Intrusive	Pluton	Gabbro	873	844	K		hargrave 2020-03-14 14:12:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-5b	FC1-5b_LP-DIR-T	FC1-5		lt	170.2	48.8	2	12	-1	19.2	16.2	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:12:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-5b	FC1-5b_LP-DIR-T	FC1-5		mt	287.0	28.6	2	6	0	0.2	1.9	Intrusive	Pluton	Gabbro	873	844	K		hargrave 2020-03-14 14:12:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-5b	FC1-5b_LP-DIR-T	FC1-5		lt	293.4	76.2	2	12	0	19.2	16.2	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:12:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-6a	FC1-6a_LP-DIR-AF	FC1-6		mc	317.8	54.8	2	9	0	10.5	1.7	Intrusive	Pluton	Gabbro	0.024	0.009	T		hargrave 2019-10-31 05:58:48	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-6a	FC1-6a_LP-DIR-AF	FC1-6		lc	61.4	43.5	2	4	0	58.9	3	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 05:58:48	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-6a	FC1-6a_LP-DIR-AF	FC1-6		mc	137.4	51.8	2	9	-1	10.5	1.7	Intrusive	Pluton	Gabbro	0.024	0.009	T		hargrave 2019-10-31 05:58:48	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-6a		FC1-6										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC1-6a	FC1-6a_LP-DIR-AF	FC1-6		lc	158.6	-7.9	2	4	-1	58.9	3	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 05:58:48	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-6b	FC1-6b_LP-DIR-T	FC1-6		mt	113.1	61.5	2	10	-1	1.2	2.8	Intrusive	Pluton	Gabbro	873	833	K		hargrave 2020-03-14 14:13:44	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-6b	FC1-6b_LP-DIR-T	FC1-6		lt	172.7	24.9	2	6	-1	46.1	14	Intrusive	Pluton	Gabbro	573	273	K		hargrave 2020-03-14 14:13:44	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-6b	FC1-6b_LP-DIR-T	FC1-6		mt	306.3	40.3	2	10	0	1.2	2.8	Intrusive	Pluton	Gabbro	873	833	K		hargrave 2020-03-14 14:13:44	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-6b	FC1-6b_LP-DIR-T	FC1-6		lt	54.6	78.9	2	6	0	46.1	14	Intrusive	Pluton	Gabbro	573	273	K		hargrave 2020-03-14 14:13:44	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-6b		FC1-6										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+FC1-7a		FC1-7										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC1-7a	FC1-7a_LP-DIR-AF	FC1-7		lc	81.9	48.3	2	4	0	92.9	3.2	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 07:07:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-7a	FC1-7a_LP-DIR-AF	FC1-7		mc	301.9	14.8	2	29	0	26.2	1.5	Intrusive	Pluton	Gabbro	0.082	0.01	T		hargrave 2019-10-31 07:07:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-7a	FC1-7a_LP-DIR-AF	FC1-7		mc	58.4	67.5	2	29	-1	26.2	1.5	Intrusive	Pluton	Gabbro	0.082	0.01	T		hargrave 2019-10-31 07:07:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-7a	FC1-7a_LP-DIR-AF	FC1-7		lc	166.4	-11.5	2	4	-1	92.9	3.2	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 07:07:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-7b		FC1-7										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+FC1-7b	FC1-7b_LP-DIR-T	FC1-7		mt	294.6	37	2	11	0	0.9	2	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:15:08	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-7b	FC1-7b_LP-DIR-T	FC1-7		mt	133.8	76.2	2	11	-1	0.9	2	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:15:08	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-7b	FC1-7b_LP-DIR-T	FC1-7		lt	157.5	22.1	2	6	-1	46.5	12.1	Intrusive	Pluton	Gabbro	573	273	K		hargrave 2020-03-14 14:15:08	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-7b	FC1-7b_LP-DIR-T	FC1-7		lt	23.1	68.8	2	6	0	46.5	12.1	Intrusive	Pluton	Gabbro	573	273	K		hargrave 2020-03-14 14:15:08	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-8a	FC1-8a_LP-DIR-AF	FC1-8		lc	175.8	18	2	4	-1	55	1.9	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 08:15:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-8a	FC1-8a_LP-DIR-AF	FC1-8		mc	274.5	48	2	9	0	4.5	3.1	Intrusive	Pluton	Gabbro	0.03	0.014	T		hargrave 2019-10-31 08:15:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-8a	FC1-8a_LP-DIR-AF	FC1-8		mc	233.8	80.6	2	9	-1	4.5	3.1	Intrusive	Pluton	Gabbro	0.03	0.014	T		hargrave 2019-10-31 08:15:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-8a	FC1-8a_LP-DIR-AF	FC1-8		lc	96.6	64.7	2	4	0	55	1.9	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 08:15:55	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-8a		FC1-8										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC1-8b		FC1-8										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+FC1-8b	FC1-8b_LP-DIR-T	FC1-8		mt	147.1	83.2	2	11	-1	1.2	1.8	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:16:34	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-8b	FC1-8b_LP-DIR-T	FC1-8		lt	181.7	51.5	2	4	-1	25.1	12.8	Intrusive	Pluton	Gabbro	473	273	K		hargrave 2020-03-14 14:16:34	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-8b	FC1-8b_LP-DIR-T	FC1-8		mt	291.5	48.6	2	11	0	1.2	1.8	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:16:34	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-8b	FC1-8b_LP-DIR-T	FC1-8		lt	278.9	81.4	2	4	0	25.1	12.8	Intrusive	Pluton	Gabbro	473	273	K		hargrave 2020-03-14 14:16:34	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-9a	FC1-9a_LP-DIR-AF	FC1-9		lc	160.7	-26.4	2	4	-1	75.9	3.8	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 14:47:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-9a	FC1-9a_LP-DIR-AF	FC1-9		mc	179.1	48.1	2	18	-1	14.1	2.9	Intrusive	Pluton	Gabbro	0.1	0.04	T		hargrave 2019-10-31 14:47:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC1-9a		FC1-9										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC1-9a	FC1-9a_LP-DIR-AF	FC1-9		mc	304.7	49.9	2	18	0	14.1	2.9	Intrusive	Pluton	Gabbro	0.1	0.04	T		hargrave 2019-10-31 14:47:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-9a	FC1-9a_LP-DIR-AF	FC1-9		lc	95.9	50.8	2	4	0	75.9	3.8	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 14:47:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC1-9b	FC1-9b_LP-DIR-T	FC1-9		mt	222.5	65.5	2	10	-1	0.7	1.9	Intrusive	Pluton	Gabbro	873	833	K		hargrave 2020-03-14 14:18:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-9b	FC1-9b_LP-DIR-T	FC1-9		mt	285.7	25.4	2	10	0	0.7	1.9	Intrusive	Pluton	Gabbro	873	833	K		hargrave 2020-03-14 14:18:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-9b	FC1-9b_LP-DIR-T	FC1-9		lt	79.7	56.9	2	8	0	82.6	9.4	Intrusive	Pluton	Gabbro	673	273	K		hargrave 2020-03-14 14:18:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+FC1-9b	FC1-9b_LP-DIR-T	FC1-9		lt	156.7	-15.8	2	8	-1	82.6	9.4	Intrusive	Pluton	Gabbro	673	273	K		hargrave 2020-03-14 14:18:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+FC1-9b		FC1-9										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+FC4-1a	FC4-1a_LP-DIR-AF	FC4-1		mc	261.6	39.8	2	7	-1	4.7	1.9	Intrusive	Pluton	Gabbro	0.13	0.1	T		hargrave 2019-10-31 16:27:26	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-1a	FC4-1a_LP-DIR-AF	FC4-1		lc	311.8	18.3	2	11	-1	15	1.9	Intrusive	Pluton	Gabbro	0.01	0	T		hargrave 2019-10-31 16:27:26	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-1a	FC4-1a_LP-DIR-AF	FC4-1		mc	307.3	27.3	2	7	0	4.7	1.9	Intrusive	Pluton	Gabbro	0.13	0.1	T		hargrave 2019-10-31 16:27:26	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-1a	FC4-1a_LP-DIR-AF	FC4-1		lc	317.3	-19.8	2	11	0	15	1.9	Intrusive	Pluton	Gabbro	0.01	0	T		hargrave 2019-10-31 16:27:26	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-1a		FC4-1										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC4-2a	FC4-2a_LP-DIR-AF	FC4-2		lc	302.9	54.5	2	11	-1	13	2.2	Intrusive	Pluton	Gabbro	0.01	0	T		hargrave 2019-10-31 17:38:13	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-2a	FC4-2a_LP-DIR-AF	FC4-2		mc	227.0	23.8	2	7	-1	15.6	2.6	Intrusive	Pluton	Gabbro	0.13	0.1	T		hargrave 2019-10-31 17:38:13	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-2a	FC4-2a_LP-DIR-AF	FC4-2		lc	311.7	-27.7	2	11	0	13	2.2	Intrusive	Pluton	Gabbro	0.01	0	T		hargrave 2019-10-31 17:38:13	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-2a		FC4-2										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC4-2a	FC4-2a_LP-DIR-AF	FC4-2		mc	292.6	32.4	2	7	0	15.6	2.6	Intrusive	Pluton	Gabbro	0.13	0.1	T		hargrave 2019-10-31 17:38:13	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-3a	FC4-3a_LP-DIR-AF	FC4-3		lc	325.9	7.3	2	11	-1	22.4	0.9	Intrusive	Pluton	Gabbro	0.01	0	T		hargrave 2019-10-31 18:49:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-3a	FC4-3a_LP-DIR-AF	FC4-3		mc	255.8	12.8	2	14	-1	10.5	2.4	Intrusive	Pluton	Gabbro	0.13	0.07	T		hargrave 2019-10-31 18:49:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-3a	FC4-3a_LP-DIR-AF	FC4-3		mc	278.5	18.9	2	14	0	10.5	2.4	Intrusive	Pluton	Gabbro	0.13	0.07	T		hargrave 2019-10-31 18:49:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-3a	FC4-3a_LP-DIR-AF	FC4-3		lc	322.5	-36.1	2	11	0	22.4	0.9	Intrusive	Pluton	Gabbro	0.01	0	T		hargrave 2019-10-31 18:49:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-3a		FC4-3										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC4-4a		FC4-4										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC4-5a		FC4-5										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC4-5a	FC4-5a_LP-DIR-AF	FC4-5		llc	242.0	-53.8	1	4	-1	2.4	3.9	Intrusive	Pluton	Gabbro	0.016	0.01	T		hargrave 2019-11-04 19:16:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-5a	FC4-5a_LP-DIR-AF	FC4-5		llc	141.4	12.7	1	4	0	2.4	3.9	Intrusive	Pluton	Gabbro	0.016	0.01	T		hargrave 2019-11-04 19:16:27	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		llc	55.0	6.5	3	4	0	37.5	1.6	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		lc	104.7	7.3	3	7	0	13.1	1.5	Intrusive	Pluton	Gabbro	0.02	0.005	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		mc	294.2	29.7	3	9	0	10	1.9	Intrusive	Pluton	Gabbro	0.1	0.05	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		llc	98.5	-33.5	3	4	-1	37.5	1.6	Intrusive	Pluton	Gabbro	0.003	0	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		mc	174.4	61.1	3	9	-1	10	1.9	Intrusive	Pluton	Gabbro	0.1	0.05	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-6a		FC4-6										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC4-6a	FC4-6a_LP-DIR-AF	FC4-6		lc	142.5	-79.6	3	7	-1	13.1	1.5	Intrusive	Pluton	Gabbro	0.02	0.005	T		hargrave 2019-10-31 22:36:04	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-7a		FC4-7										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC4-7a	FC4-7a_LP-DIR-AF	FC4-7		lc	18.4	-51.9	2	5	-1	119.3	3.1	Intrusive	Pluton	Gabbro	0.012	0.007	T		hargrave 2019-11-04 20:33:24	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-7a	FC4-7a_LP-DIR-AF	FC4-7		mc	300.6	35.7	2	12	0	8.1	2.9	Intrusive	Pluton	Gabbro	0.13	0.078	T		hargrave 2019-11-04 20:33:24	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-7a	FC4-7a_LP-DIR-AF	FC4-7		lc	115.5	-28	2	5	0	119.3	3.1	Intrusive	Pluton	Gabbro	0.012	0.007	T		hargrave 2019-11-04 20:33:24	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-7a	FC4-7a_LP-DIR-AF	FC4-7		mc	188.9	45.8	2	12	-1	8.1	2.9	Intrusive	Pluton	Gabbro	0.13	0.078	T		hargrave 2019-11-04 20:33:24	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-8a	FC4-8a_LP-DIR-AF	FC4-8		mc	213.1	46.5	2	7	-1	7.3	2.9	Intrusive	Pluton	Gabbro	0.13	0.1	T		hargrave 2019-11-04 21:40:03	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-8a	FC4-8a_LP-DIR-AF	FC4-8		lc	326.7	-31.8	2	11	0	14.8	2.7	Intrusive	Pluton	Gabbro	0.02	0.005	T		hargrave 2019-11-04 21:40:03	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-8a	FC4-8a_LP-DIR-AF	FC4-8		mc	302.4	20.7	2	7	0	7.3	2.9	Intrusive	Pluton	Gabbro	0.13	0.1	T		hargrave 2019-11-04 21:40:03	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-8a	FC4-8a_LP-DIR-AF	FC4-8		lc	1.9	74.2	2	11	-1	14.8	2.7	Intrusive	Pluton	Gabbro	0.02	0.005	T		hargrave 2019-11-04 21:40:03	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+FC4-8a		FC4-8										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC4-9a		FC4-9										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+FC4-9a	FC4-9a_LP-DIR-AF	FC4-9		mc	297.1	21	1	19	0	7.3	1.6	Intrusive	Pluton	Gabbro	0.082	0.03	T		hargrave 2019-11-04 22:49:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+FC4-9a	FC4-9a_LP-DIR-AF	FC4-9		mc	253.3	34.3	1	19	-1	7.3	1.6	Intrusive	Pluton	Gabbro	0.082	0.03	T		hargrave 2019-11-04 22:49:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-1a		HCT1-1										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+HCT1-1a	HCT1-1a_LP-DIR-AF	HCT1-1		mc	272.4	33.8	1	17	0	5.8	1.3	Intrusive	Pluton	Gabbro	0.074	0.03	T		hargrave 2019-10-30 15:13:07	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-1a	HCT1-1a_LP-DIR-AF	HCT1-1		mc	352.9	50.7	1	17	-1	5.8	1.3	Intrusive	Pluton	Gabbro	0.074	0.03	T		hargrave 2019-10-30 15:13:07	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-1b	HCT1-1b_LP-DIR-T	HCT1-1		mt	13.8	63.6	2	10	-1	1.6	2.9	Intrusive	Pluton	Gabbro	873	833	K		hargrave 2020-03-14 14:19:37	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-1b	HCT1-1b_LP-DIR-T	HCT1-1		lt	168.4	61.9	2	8	0	51.9	13.7	Intrusive	Pluton	Gabbro	673	273	K		hargrave 2020-03-14 14:19:37	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-1b	HCT1-1b_LP-DIR-T	HCT1-1		lt	227.5	52.9	2	8	-1	51.9	13.7	Intrusive	Pluton	Gabbro	673	273	K		hargrave 2020-03-14 14:19:37	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-1b	HCT1-1b_LP-DIR-T	HCT1-1		mt	286.8	46.9	2	10	0	1.6	2.9	Intrusive	Pluton	Gabbro	873	833	K		hargrave 2020-03-14 14:19:37	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-1b		HCT1-1										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+HCT1-2a	HCT1-2a_LP-DIR-AF	HCT1-2		lc	153.9	16.7	2	5	0	99.9	1.9	Intrusive	Pluton	Gabbro	0.004	0	T		hargrave 2019-10-30 16:29:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-2a	HCT1-2a_LP-DIR-AF	HCT1-2		mc	297.3	30.8	2	21	0	2.9	1.3	Intrusive	Pluton	Gabbro	0.09	0.03	T		hargrave 2019-10-30 16:29:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-2a	HCT1-2a_LP-DIR-AF	HCT1-2		lc	226.8	6	2	5	-1	99.9	1.9	Intrusive	Pluton	Gabbro	0.004	0	T		hargrave 2019-10-30 16:29:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-2a	HCT1-2a_LP-DIR-AF	HCT1-2		mc	15.7	46.3	2	21	-1	2.9	1.3	Intrusive	Pluton	Gabbro	0.09	0.03	T		hargrave 2019-10-30 16:29:58	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-2a		HCT1-2										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+HCT1-2b	HCT1-2b_LP-DIR-T	HCT1-2		mt	2.8	54.3	2	11	-1	2.3	2.8	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:23:18	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-2b	HCT1-2b_LP-DIR-T	HCT1-2		mt	286.8	38.4	2	11	0	2.3	2.8	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:23:18	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-2b		HCT1-2										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+HCT1-2b	HCT1-2b_LP-DIR-T	HCT1-2		lt	156.3	28.2	2	12	0	93	8.2	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:23:18	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-2b	HCT1-2b_LP-DIR-T	HCT1-2		lt	226.4	17.6	2	12	-1	93	8.2	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:23:18	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-3a	HCT1-3a_LP-DIR-AF	HCT1-3		mc	3.9	61.2	2	6	-1	7.5	0.9	Intrusive	Pluton	Gabbro	0.02	0.01	T		hargrave 2019-10-30 17:38:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-3a	HCT1-3a_LP-DIR-AF	HCT1-3		lc	202.0	1.8	2	5	-1	109	1.6	Intrusive	Pluton	Gabbro	0.004	0	T		hargrave 2019-10-30 17:38:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-3a	HCT1-3a_LP-DIR-AF	HCT1-3		lc	140.0	14.7	2	5	0	109	1.6	Intrusive	Pluton	Gabbro	0.004	0	T		hargrave 2019-10-30 17:38:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-3a	HCT1-3a_LP-DIR-AF	HCT1-3		mc	300.0	47.2	2	6	0	7.5	0.9	Intrusive	Pluton	Gabbro	0.02	0.01	T		hargrave 2019-10-30 17:38:49	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-3a		HCT1-3										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+HCT1-3b	HCT1-3b_LP-DIR-T	HCT1-3		mt	284.5	42.7	2	12	0	1.1	1.1	Intrusive	Pluton	Gabbro	873	813	K		hargrave 2020-03-14 14:24:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-3b	HCT1-3b_LP-DIR-T	HCT1-3		lt	201.2	6.9	2	12	-1	103.5	5.8	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:24:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-3b	HCT1-3b_LP-DIR-T	HCT1-3		mt	343.1	56.2	2	12	-1	1.1	1.1	Intrusive	Pluton	Gabbro	873	813	K		hargrave 2020-03-14 14:24:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-3b		HCT1-3										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+HCT1-3b	HCT1-3b_LP-DIR-T	HCT1-3		lt	139.6	19.9	2	12	0	103.5	5.8	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:24:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-4a		HCT1-4										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+HCT1-4a	HCT1-4a_LP-DIR-AF	HCT1-4		mc	224.3	49.3	1	16	0	2.7	1.4	Intrusive	Pluton	Gabbro	0.07	0.03	T		hargrave 2019-10-30 18:46:33	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	b		
+HCT1-4a	HCT1-4a_LP-DIR-AF	HCT1-4		mc	261.7	49.3	1	16	-1	2.7	1.4	Intrusive	Pluton	Gabbro	0.07	0.03	T		hargrave 2019-10-30 18:46:33	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	b		
+HCT1-4b	HCT1-4b_LP-DIR-T	HCT1-4		lt	119.6	3.2	2	12	-1	108.2	7.4	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:26:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-4b	HCT1-4b_LP-DIR-T	HCT1-4		mt	224.0	54	2	11	0	2.4	1.7	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:26:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	b		
+HCT1-4b	HCT1-4b_LP-DIR-T	HCT1-4		lt	64.4	10	2	12	0	108.2	7.4	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:26:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-4b		HCT1-4										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+HCT1-4b	HCT1-4b_LP-DIR-T	HCT1-4		mt	258.5	53.5	2	11	-1	2.4	1.7	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:26:25	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	b		
+HCT1-5a	HCT1-5a_LP-DIR-AF	HCT1-5		lc	228.7	46	2	4	-1	71.6	3.9	Intrusive	Pluton	Gabbro	0.005	0.002	T		hargrave 2019-10-30 19:55:31	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-5a	HCT1-5a_LP-DIR-AF	HCT1-5		lc	154.5	52.5	2	4	0	71.6	3.9	Intrusive	Pluton	Gabbro	0.005	0.002	T		hargrave 2019-10-30 19:55:31	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-5a	HCT1-5a_LP-DIR-AF	HCT1-5		mc	276.4	26.7	2	16	0	2.9	1.2	Intrusive	Pluton	Gabbro	0.07	0.03	T		hargrave 2019-10-30 19:55:31	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-5a	HCT1-5a_LP-DIR-AF	HCT1-5		mc	1.1	37.7	2	16	-1	2.9	1.2	Intrusive	Pluton	Gabbro	0.07	0.03	T		hargrave 2019-10-30 19:55:31	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-5a		HCT1-5										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+HCT1-5b	HCT1-5b_LP-DIR-T	HCT1-5		mt	14.2	51.4	2	11	-1	2.3	1.5	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:27:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-5b		HCT1-5										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+HCT1-5b	HCT1-5b_LP-DIR-T	HCT1-5		lt	70.4	52	2	13	-1	30.1	11.6	Intrusive	Pluton	Gabbro	793	273	K		hargrave 2020-03-14 14:27:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-5b	HCT1-5b_LP-DIR-T	HCT1-5		lt	334.1	47.3	2	13	0	30.1	11.6	Intrusive	Pluton	Gabbro	793	273	K		hargrave 2020-03-14 14:27:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-5b	HCT1-5b_LP-DIR-T	HCT1-5		mt	287.0	40.6	2	11	0	2.3	1.5	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:27:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-6a		HCT1-6										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+HCT1-6a	HCT1-6a_LP-DIR-AF	HCT1-6		lc	203.8	80.5	2	3	0	32.4	3.5	Intrusive	Pluton	Gabbro	0.002	0	T		hargrave 2019-10-30 21:04:42	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-6a	HCT1-6a_LP-DIR-AF	HCT1-6		mc	288.4	32.8	2	15	0	2.7	1.6	Intrusive	Pluton	Gabbro	0.11	0.05	T		hargrave 2019-10-30 21:04:42	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-6a	HCT1-6a_LP-DIR-AF	HCT1-6		lc	220.7	75.3	2	3	-1	32.4	3.5	Intrusive	Pluton	Gabbro	0.002	0	T		hargrave 2019-10-30 21:04:42	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-6a	HCT1-6a_LP-DIR-AF	HCT1-6		mc	351.9	43.7	2	15	-1	2.7	1.6	Intrusive	Pluton	Gabbro	0.11	0.05	T		hargrave 2019-10-30 21:04:42	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-6b	HCT1-6b_LP-DIR-T	HCT1-6		mt	351.0	57.2	2	11	-1	3.2	2	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:29:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-6b	HCT1-6b_LP-DIR-T	HCT1-6		lt	260.3	67.2	2	12	-1	33.1	6.7	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:29:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-6b	HCT1-6b_LP-DIR-T	HCT1-6		lt	221.7	66.6	2	12	0	33.1	6.7	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:29:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-6b		HCT1-6										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+HCT1-6b	HCT1-6b_LP-DIR-T	HCT1-6		mt	288.4	46.3	2	11	0	3.2	2	Intrusive	Pluton	Gabbro	873	823	K		hargrave 2020-03-14 14:29:22	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-7a	HCT1-7a_LP-DIR-AF	HCT1-7		mc	282.4	35.4	2	17	0	3.9	1.2	Intrusive	Pluton	Gabbro	0.12	0.05	T		hargrave 2019-10-30 22:09:23	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-7a	HCT1-7a_LP-DIR-AF	HCT1-7		lc	282.0	1.4	2	6	-1	21.3	1.3	Intrusive	Pluton	Gabbro	0.008	0.003	T		hargrave 2019-10-30 22:09:23	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-7a	HCT1-7a_LP-DIR-AF	HCT1-7		lc	234.1	-1.1	2	6	0	21.3	1.3	Intrusive	Pluton	Gabbro	0.008	0.003	T		hargrave 2019-10-30 22:09:23	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-7a	HCT1-7a_LP-DIR-AF	HCT1-7		mc	325.0	45.5	2	17	-1	3.9	1.2	Intrusive	Pluton	Gabbro	0.12	0.05	T		hargrave 2019-10-30 22:09:23	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-7a		HCT1-7										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+HCT1-7b	HCT1-7b_LP-DIR-T	HCT1-7		lt	220.6	-1.6	2	13	0	18.6	7.8	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:31:45	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-7b	HCT1-7b_LP-DIR-T	HCT1-7		mt	285.5	2.7	2	8	-1	2.3	1	Intrusive	Pluton	Gabbro	873	839	K		hargrave 2020-03-14 14:31:45	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	b		
+HCT1-7b	HCT1-7b_LP-DIR-T	HCT1-7		lt	269.0	-1.8	2	13	-1	18.6	7.8	Intrusive	Pluton	Gabbro	773	273	K		hargrave 2020-03-14 14:31:45	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-7b	HCT1-7b_LP-DIR-T	HCT1-7		mt	237.8	-0.5	2	8	0	2.3	1	Intrusive	Pluton	Gabbro	873	839	K		hargrave 2020-03-14 14:31:45	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	b		
+HCT1-7b		HCT1-7										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+HCT1-8a	HCT1-8a_LP-DIR-AF	HCT1-8		lc	182.1	55.3	2	3	0	42.8	4	Intrusive	Pluton	Gabbro	0.003	0.001	T		hargrave 2019-10-30 23:14:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-8a	HCT1-8a_LP-DIR-AF	HCT1-8		mc	296.6	39.5	2	13	0	0.9	2.1	Intrusive	Pluton	Gabbro	0.09	0.046	T		hargrave 2019-10-30 23:14:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g		
+HCT1-8a	HCT1-8a_LP-DIR-AF	HCT1-8		lc	210.0	43	2	3	-1	42.8	4	Intrusive	Pluton	Gabbro	0.003	0.001	T		hargrave 2019-10-30 23:14:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-8a		HCT1-8										Intrusive	Pluton	Gabbro								This study	LP-NOMAG			
+HCT1-8a	HCT1-8a_LP-DIR-AF	HCT1-8		mc	326.9	52.7	2	13	-1	0.9	2.1	Intrusive	Pluton	Gabbro	0.09	0.046	T		hargrave 2019-10-30 23:14:53	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g		
+HCT1-8b		HCT1-8										Intrusive	Pluton	Gabbro				Yiming Zhang				This study	LP-NOMAG			
+HCT1-8b	HCT1-8b_LP-DIR-T	HCT1-8		lt	219.8	70.5	2	11	0	23.1	5.7	Intrusive	Pluton	Gabbro	748	273	K		hargrave 2020-03-14 14:33:17	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
+HCT1-8b	HCT1-8b_LP-DIR-T	HCT1-8		lt	226.3	63.2	2	11	-1	23.1	5.7	Intrusive	Pluton	Gabbro	748	273	K		hargrave 2020-03-14 14:33:17	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-8b	HCT1-8b_LP-DIR-T	HCT1-8		mt	295.3	65.7	2	12	-1	1.6	1	Intrusive	Pluton	Gabbro	873	813	K		hargrave 2020-03-14 14:33:17	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g		
+HCT1-8b	HCT1-8b_LP-DIR-T	HCT1-8		mt	279.5	56.6	2	12	0	1.6	1	Intrusive	Pluton	Gabbro	873	813	K		hargrave 2020-03-14 14:33:17	pmagpy-4.2.25: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g		
